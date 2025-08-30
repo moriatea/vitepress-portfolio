@@ -73,10 +73,9 @@ API • Postman • Agile • Scrum • Product specification • Design thinkin
 **Product Manager** | Singapore | June 2022 – March 2025
 
 - Led Workato Data Tables general availability launch as Lookup Tables' successor for all Workato users.
+- Released native XSLT and XSD support adopted by enterprise customers contributing to over US$1 million in ARR.
 - Stabilized legacy database by reducing maximum query execution time by 96% and freeing up 277GB of storage space.
 - Spearheaded migration of 90% of customers using code connectors to sandboxed execution.
-- Released native XSLT and XSD support adopted by enterprise customers contributing to over US$1 million in ARR.
-- Aligned Workday connector with OWASP Zero Trust API Access and reduced its deployment size by 480MB.
 - Led verification effort of Workato solutions for SuccessFactors and Google Cloud integrations with SAP and Google.
 
 ### Shopee
@@ -126,7 +125,7 @@ Summa Cum Laude, CGPA: 4.96/5.00
 
 ### Catholic Junior College
 
-**GCE 'A' Level** | January 2011 – December 2012
+**GCE A-Level** | January 2011 – December 2012
 
 University Admission Score (UAS): 90/90, H3: Physics (Merit)
 
