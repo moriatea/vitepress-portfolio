@@ -523,6 +523,10 @@ export default defineConfig({
                   text: "SUTD",
                   link: "/resume#singapore-university-of-technology-and-design",
                 },
+                {
+                  text: "Catholic Junior College",
+                  link: "/resume#catholic-junior-college",
+                },
               ],
             },
             {
