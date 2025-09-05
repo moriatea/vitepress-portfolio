@@ -319,6 +319,14 @@ const AIRPORT_COORDINATES: Record<string, Omit<Airport, "flightCount" | "display
     city: "Taipei",
     country: "Taiwan",
   },
+  SOF: {
+    code: "SOF",
+    lat: 42.6967,
+    lng: 23.4114,
+    name: "Sofia Airport",
+    city: "Sofia",
+    country: "Bulgaria",
+  },
 };
 
 // --- Props ---
