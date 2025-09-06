@@ -23,6 +23,13 @@ head:
 
 features:
   - icon:
+      src: /vibe-chef-wiz.png
+      alt: Weekly Meal Inspiration and Planner
+    title: Vibe Chef Wiz
+    details: A weekly meal-prep planner with embedded AI for recipes inspiration
+    link: https://github.com/stevahnes/vibe-chef-wiz
+    target: _blank
+  - icon:
       src: /llm-judge.png
       alt: LLM Judge Documentation Evaluation Tool
     title: docs-eval (Private Repo)
