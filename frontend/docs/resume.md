@@ -54,7 +54,7 @@ const DownloadResumeButton = defineAsyncComponent({
 
 ## Personal Profile
 
-Seasoned product manager with 7+ years of experience in requirements gathering, data analysis, vision, and strategy of B2B SaaS and B2C software products. Successfully launched key functionalities, delivered performance and security enhancements, resolved production issues, and managed global customer relationships. Certified Scrum Product Owner, Certified ScrumMaster, and Usability Analyst who is also proficient in modern software development stack, API standards, issue tracking tools, and leading UI design applications. Fluent in English, Indonesian, Malay, and basic conversational Chinese.
+Product leader with 7+ years driving growth and innovation in B2B SaaS and consumer products across orchestration, e-commerce, and aviation industries. Proven track record in launching revenue-generating features, modernizing legacy systems, and leading large-scale customer migrations. Skilled in balancing usability, performance, and security while guiding cross-functional teams from vision to execution. Certified Scrum Product Owner, ScrumMaster, and Usability Analyst, with hands-on experience building AI-powered products, architecting scalable systems, and integrating APIs to drive customer impact. Fluent in English, Indonesian, and Malay, with conversational Chinese.
 
 ## Core Competencies
 
@@ -128,7 +128,5 @@ University Admission Score (UAS): 90/90, H3: Physics (Merit)
 ## Awards and Certifications
 
 - Value Star Award - "We Serve" (Marketplace Product Manager) | May 2022
-- Advanced Certified Scrum Product Owner® | January 2021
-- Software Product Management Specialization by the University of Alberta (Coursera) | December 2020
 - IES Gold Medal (Top Cohort Graduate) & Keppel Award of Excellence (Senior & Junior Years) | September 2016
 - ASEAN Undergraduate Scholarship & Tay Chen Hui Memorial Award (Top Science Student) | July 2013
