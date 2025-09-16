@@ -49,6 +49,9 @@ features:
   - icon: { dark: "./polygon-dark.png", light: "./polygon-light.png" }
     title: Zephyr
     details: 2014 Polygon Helios C4.0
+  - icon: { src: ./garmin.png }
+    title: Apex
+    details: Garmin Edge 530
   - icon: { src: ./aftershock.webp }
     title: Zoom
     details: Aftershock | 5600X | RTX3060
@@ -58,6 +61,9 @@ features:
   - icon: { src: ./ringconn.png }
     title: Onyx
     details: RingConn Gen 2
+  - icon: { src: ./garmin.png }
+    title: Pulse
+    details: Garmin HRM Dual
   - icon: { dark: "./kindle-dark.png", light: "./kindle-light.png" }
     title: Opus
     details: Amazon Kindle Basic
@@ -76,6 +82,9 @@ features:
   - icon: { src: ./xiaomi.svg }
     title: Vortex
     details: Mi Robot Vacuum-Mop 2
+  - icon: { dark: "./braun-dark.png", light: "./braun-light.png" }
+    title: Crispr
+    details: Braun Series 9 Pro+ 9510S
   - icon: { src: ./ewelink.png }
     title: Klik-Klak
     details: eWeLink Sonoff Basic Switch
