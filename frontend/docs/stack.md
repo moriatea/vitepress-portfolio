@@ -58,16 +58,17 @@ features:
   - icon: { src: ./netlify.svg, alt: Netlify Deployment Platform }
     title: Netlify
     details: Deploy dreams with a drag, drop, and click.
-  - icon: { src: ./vercel.svg, alt: Vercel Deployment Platform }
+  - icon:
+      { dark: "./vercel-dark.png", light: "./vercel-light.png", alt: Vercel Deployment Platform }
     title: Vercel
     details: Preview, push, and impress with every deploy.
   - icon: { src: ./vitepress.webp, alt: VitePress Static Site Generator }
     title: VitePress
     details: Docs so fast they finish before the meeting starts.
-  - icon: { src: ./langbase.png, alt: Langbase AI Platform }
+  - icon: { dark: "./langbase-dark.png", light: "./langbase-light.png", alt: Langbase AI Platform }
     title: Langbase
     details: Keep your LLMs smart and your vectors sharper.
-  - icon: { dark: "./resend-dark.png", light: "./resend-light.svg", alt: Resend Email Service }
+  - icon: { dark: "./resend-dark.png", light: "./resend-light.png", alt: Resend Email Service }
     title: Resend
     details: Emails that actually deliver what you promised.
   - icon: { src: ./wordpress.svg, alt: WordPress CMS }
