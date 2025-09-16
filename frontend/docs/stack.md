@@ -110,6 +110,9 @@ features:
   - icon: { src: ./miro.png, alt: Miro Collaboration Platform }
     title: Miro
     details: Post-it party meets infinite canvas energy.
+  - icon: { src: ./annotate.png, alt: Annotate Screenshot Tool }
+    title: Annotate
+    details: Screenshots that don’t just show, they speak.
   - icon: { src: ./cove-ai.png, alt: Cove AI Platform }
     title: Cove AI
     details: Bring context to your content and sanity to your stack.
