@@ -115,14 +115,13 @@ const checkIfMobile = (): boolean => {
 // --- Mini Chat Expand/Collapse Logic ---
 const expandToFullMode = async (): Promise<void> => {
   isCompactMode.value = false;
-  localStorage.setItem("miniChatExpanded", "true");
   await nextTick();
   scrollToBottom();
 };
 
 const toggleMiniChat = (): void => {
   isMiniChat.value = !isMiniChat.value;
-
+  localStorage.setItem("miniChatExpanded", isMiniChat.value.toString());
   if (isMiniChat.value) {
     nextTick(() => {
       inputRef.value?.focus();
@@ -277,10 +276,10 @@ const sendMessage = async (): Promise<void> => {
 
   // Handle first message UI changes
   if (isFirstMessage) {
+    isFirstMessageSent.value = true;
     if (displayMode.value === "mini") {
       await expandToFullMode();
     } else if (displayMode.value === "full" && !isFirstMessageSent.value) {
-      isFirstMessageSent.value = true;
       setTimeout(async () => {
         await setFullHeightAndScroll();
         if (isMobile.value) {
@@ -464,15 +463,15 @@ onMounted(async () => {
 
   // Handle mini chat open state
   if (displayMode.value === "mini") {
-    isMiniChat.value = true;
-    const lastMiniChatExpanded = localStorage.getItem("miniChatExpanded");
-    // Check if it should be expanded
+    isMiniChat.value = false; // handles miniChat open/close state
+    isCompactMode.value = true; //handles whether to display prompts (true) or messages
+    // Check if user has previously toggled the mini chat
+    const lastMiniChatExpanded = localStorage.getItem("miniChatExpanded") || "true";
     if (lastMiniChatExpanded === "true") {
+      isMiniChat.value = true;
+    }
+    if (isFirstMessageSent.value) {
       isCompactMode.value = false;
-    } else {
-      // No thread - collapsed by default
-      isMiniChat.value = false;
-      isCompactMode.value = true;
     }
   }
 
@@ -523,7 +522,6 @@ watch(
   displayMode,
   (newMode, oldMode) => {
     if (newMode === "full" && oldMode === "mini") {
-      isMiniChat.value = false;
       nextTick(() => {
         // Set chatMountPoint to true for full mode
         chatMountPoint.value = !!document.getElementById("chat-container");
@@ -534,8 +532,11 @@ watch(
         }
       });
     } else if (newMode === "mini" && oldMode === "full") {
-      isMiniChat.value = true;
       // Switching from full to mini - sync the expanded state
+      const lastMiniChatExpanded = localStorage.getItem("miniChatExpanded") || "true";
+      if (lastMiniChatExpanded === "true") {
+        isMiniChat.value = true;
+      }
       if (isFirstMessageSent.value) {
         isCompactMode.value = false;
       }
