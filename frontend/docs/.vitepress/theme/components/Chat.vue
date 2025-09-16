@@ -41,7 +41,7 @@ const displayMode = computed(() => {
 });
 
 // --- Mini Chat Specific State ---
-const isMiniChatOpen = ref(false);
+const isMiniChat = ref(false);
 const isCompactMode = ref(true);
 
 // --- Full Chat Specific State ---
@@ -121,10 +121,9 @@ const expandToFullMode = async (): Promise<void> => {
 };
 
 const toggleMiniChat = (): void => {
-  isMiniChatOpen.value = !isMiniChatOpen.value;
-  localStorage.setItem("miniChatOpen", isMiniChatOpen.value.toString());
+  isMiniChat.value = !isMiniChat.value;
 
-  if (isMiniChatOpen.value) {
+  if (isMiniChat.value) {
     nextTick(() => {
       inputRef.value?.focus();
       if (!isCompactMode.value) scrollToBottom();
@@ -230,13 +229,8 @@ const fetchThreadMessages = async (): Promise<void> => {
           content: msg.content || "",
           timestamp: Date.now(),
         }));
-
-        if (displayMode.value === "mini" && messagesData.length > 0) {
-          isCompactMode.value = false;
-        }
-        if (displayMode.value === "full" && messagesData.length > 1) {
-          isFirstMessageSent.value = true;
-        }
+        isCompactMode.value = false;
+        isFirstMessageSent.value = true;
       } else {
         throw new Error("Invalid messages data");
       }
@@ -258,7 +252,7 @@ const fetchThreadMessages = async (): Promise<void> => {
   } finally {
     isInitialLoading.value = false;
     await nextTick();
-    if (displayMode.value === "mini" && isMiniChatOpen.value && !isCompactMode.value) {
+    if (displayMode.value === "mini" && isMiniChat.value && !isCompactMode.value) {
       scrollToBottom();
     } else if (displayMode.value === "full") {
       scrollToBottom();
@@ -470,27 +464,14 @@ onMounted(async () => {
 
   // Handle mini chat open state
   if (displayMode.value === "mini") {
-    const lastMiniChatOpen = localStorage.getItem("miniChatOpen");
+    isMiniChat.value = true;
     const lastMiniChatExpanded = localStorage.getItem("miniChatExpanded");
-
-    if (threadId.value) {
-      // Thread exists - check saved states
-      if (lastMiniChatOpen !== null) {
-        // Respect user's last open/close state
-        isMiniChatOpen.value = lastMiniChatOpen === "true";
-      } else {
-        // No saved state but thread exists - open by default
-        isMiniChatOpen.value = true;
-        localStorage.setItem("miniChatOpen", "true");
-      }
-
-      // Check if it should be expanded
-      if (lastMiniChatExpanded === "true" && messages.value.length > 1) {
-        isCompactMode.value = false;
-      }
+    // Check if it should be expanded
+    if (lastMiniChatExpanded === "true") {
+      isCompactMode.value = false;
     } else {
       // No thread - collapsed by default
-      isMiniChatOpen.value = false;
+      isMiniChat.value = false;
       isCompactMode.value = true;
     }
   }
@@ -538,6 +519,30 @@ onUnmounted(() => {
 // --- Watchers ---
 watch(userInput, () => nextTick(resizeTextarea));
 watch(messages, () => scrollToBottom(), { deep: true });
+watch(
+  displayMode,
+  (newMode, oldMode) => {
+    if (newMode === "full" && oldMode === "mini") {
+      isMiniChat.value = false;
+      nextTick(() => {
+        // Set chatMountPoint to true for full mode
+        chatMountPoint.value = !!document.getElementById("chat-container");
+        if (isFirstMessageSent.value) {
+          nextTick(() => {
+            setFullHeightAndScroll();
+          });
+        }
+      });
+    } else if (newMode === "mini" && oldMode === "full") {
+      isMiniChat.value = true;
+      // Switching from full to mini - sync the expanded state
+      if (isFirstMessageSent.value) {
+        isCompactMode.value = false;
+      }
+    }
+  },
+  { immediate: false },
+);
 </script>
 
 <template>
@@ -878,7 +883,7 @@ watch(messages, () => scrollToBottom(), { deep: true });
   <div v-else-if="isClient && displayMode === 'mini'" class="!fixed !bottom-4 !right-4 !z-50">
     <!-- Chat Toggle Button -->
     <button
-      v-if="!isMiniChatOpen"
+      v-if="!isMiniChat"
       class="!w-14 !h-14 !rounded-full !bg-indigo-600 !text-white !shadow-lg !flex !items-center !justify-center !transition-all hover:!bg-indigo-700"
       @click="toggleMiniChat"
     >
