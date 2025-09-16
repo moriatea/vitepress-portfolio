@@ -85,6 +85,9 @@ features:
   - icon: { dark: "./braun-dark.png", light: "./braun-light.png" }
     title: Crispr
     details: Braun Series 9 Pro+ 9510S
+  - icon: { dark: "./fellow-dark.webp", light: "./fellow-light.webp" }
+    title: Mr. Potts
+    details: Fellow Stagg EKG Electric Kettle
   - icon: { src: ./ewelink.png }
     title: Klik-Klak
     details: eWeLink Sonoff Basic Switch
