@@ -23,6 +23,13 @@ head:
 
 features:
   - icon:
+      src: /claire.png
+      alt: Cognitive Learning AI for Reasoning and Education
+    title: CLAIRE (Private Repo)
+    details: Cognitive Learning AI for Reasoning and Education
+    link: https://github.com/stevahnes/edu-mentor
+    target: _blank
+  - icon:
       src: /vibe-chef-wiz.png
       alt: Weekly Meal Inspiration and Planner
     title: VibeChef Wiz (Private Repo)
