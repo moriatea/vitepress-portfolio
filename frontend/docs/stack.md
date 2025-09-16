@@ -83,6 +83,9 @@ features:
   - icon: { dark: "./resend-dark.png", light: "./resend-light.png", alt: Resend Email Service }
     title: Resend
     details: Emails that actually deliver what you promised.
+  - icon: { src: ./workato.png, alt: Workato }
+    title: Workato
+    details: Your work orchestrator, where every tool plays in sync.
   - icon: { src: ./wordpress.svg, alt: WordPress CMS }
     title: WordPress
     details: Blog it, build it, publish it without calling dev.
