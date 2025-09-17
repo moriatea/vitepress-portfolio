@@ -85,12 +85,24 @@ features:
   - icon: { dark: "./braun-dark.png", light: "./braun-light.png" }
     title: Crispr
     details: Braun Series 9 Pro+ 9510S
-  - icon: { dark: "./fellow-dark.webp", light: "./fellow-light.webp" }
-    title: Mr. Potts
-    details: Fellow Stagg EKG Electric Kettle
   - icon: { src: ./ewelink.png }
     title: Klik-Klak
     details: eWeLink Sonoff Basic Switch
+  - icon: { src: ./hario.png }
+    title: Polaris
+    details: HARIO Polaris Coffee Scale
+  - icon: { src: ./porlex.png }
+    title: Porlex
+    details: Porlex Mini II Hand Grinder
+  - icon: { dark: "./fellow-dark.webp", light: "./fellow-light.webp" }
+    title: Mr. Potts
+    details: Fellow Stagg EKG Electric Kettle
+  - icon: { dark: "./nespresso-dark.png", light: "./nespresso-light.png" }
+    title: Classico
+    details: Nespresso Essenza Mini
+  - icon: { src: ./hario.png }
+    title: V60
+    details: Hario V60 Craft Coffee Set
 ---
 
 <script setup lang="ts">
