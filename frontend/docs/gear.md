@@ -77,7 +77,7 @@ features:
     title: Decibels
     details: Apple AirPods Pro 2
   - icon: { src: ./google.webp }
-    title: Hey, Google!
+    title: Puck
     details: Google Home Mini
   - icon: { src: ./xiaomi.svg }
     title: Vortex
