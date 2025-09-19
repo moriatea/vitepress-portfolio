@@ -38,11 +38,11 @@ hero:
     alt: Stevanus Satria - Senior Product Manager at Workato
   actions:
     - theme: brand
-      text: Explore Projects
-      link: /projects
-    - theme: alt
       text: Let's Chat
       link: "#chat"
+    - theme: alt
+      text: Explore Projects
+      link: /projects
 
 features:
   - title: ⌛ 7+
