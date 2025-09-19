@@ -31,25 +31,25 @@ head:
       href: https://stevanussatria.com/gear
 
 features:
-  - icon: { src: ./omega.png }
+  - icon: { src: ./omega.webp }
     title: Speedy
     details: Omega Speedmaster Moonwatch Professional
-  - icon: { src: ./orient.png }
+  - icon: { src: ./orient.webp }
     title: Bambino
     details: Orient Bambino Small Seconds 38mm
   - icon: { dark: "./bvlgari-dark.webp", light: "./bvlgari-light.webp" }
     title: Colosseo
     details: Bvlgari B.zero1 Ring
-  - icon: { dark: "./gucci-dark.png", light: "./gucci-light.png" }
+  - icon: { dark: "./gucci-dark.webp", light: "./gucci-light.webp" }
     title: Tribal
     details: Gucci Interlocking Chain Bracelet
-  - icon: { src: ./landyachtz.png }
+  - icon: { src: ./landyachtz.webp }
     title: G&T
     details: Landyachtz Dinghy Gin & Tonic Cruiser
-  - icon: { dark: "./polygon-dark.png", light: "./polygon-light.png" }
+  - icon: { dark: "./polygon-dark.webp", light: "./polygon-light.webp" }
     title: Zephyr
     details: 2014 Polygon Helios C4.0
-  - icon: { src: ./garmin.png }
+  - icon: { src: ./garmin.webp }
     title: Apex
     details: Garmin Edge 530
   - icon: { src: ./aftershock.webp }
@@ -58,19 +58,19 @@ features:
   - icon: { src: ./apple.webp }
     title: Jean
     details: Apple iPhone 13 Pro Max
-  - icon: { src: ./ringconn.png }
+  - icon: { src: ./ringconn.webp }
     title: Onyx
     details: RingConn Gen 2
-  - icon: { src: ./garmin.png }
+  - icon: { src: ./garmin.webp }
     title: Pulse
     details: Garmin HRM Dual
-  - icon: { dark: "./kindle-dark.png", light: "./kindle-light.png" }
+  - icon: { dark: "./kindle-dark.webp", light: "./kindle-light.webp" }
     title: Opus
     details: Amazon Kindle Basic
-  - icon: { dark: "./ue-dark.png", light: "./ue-light.png" }
+  - icon: { dark: "./ue-dark.webp", light: "./ue-light.webp" }
     title: TF10
     details: Ultimate Ears Triple.Fi 10
-  - icon: { src: ./hyperx.png }
+  - icon: { src: ./hyperx.webp }
     title: Nimbus
     details: HyperX Cloud II
   - icon: { src: ./apple.webp }
@@ -79,28 +79,28 @@ features:
   - icon: { src: ./google.webp }
     title: Puck
     details: Google Home Mini
-  - icon: { src: ./xiaomi.svg }
+  - icon: { src: ./xiaomi.webp }
     title: Vortex
     details: Mi Robot Vacuum-Mop 2
-  - icon: { dark: "./braun-dark.png", light: "./braun-light.png" }
+  - icon: { dark: "./braun-dark.webp", light: "./braun-light.webp" }
     title: Crispr
     details: Braun Series 9 Pro+ 9510S
-  - icon: { src: ./ewelink.png }
+  - icon: { src: ./ewelink.webp }
     title: Klik-Klak
     details: eWeLink Sonoff Basic Switch
-  - icon: { src: ./hario.png }
+  - icon: { src: ./hario.webp }
     title: Polaris
     details: HARIO Polaris Coffee Scale
-  - icon: { src: ./porlex.png }
+  - icon: { src: ./porlex.webp }
     title: Porlex
     details: Porlex Mini II Hand Grinder
   - icon: { dark: "./fellow-dark.webp", light: "./fellow-light.webp" }
     title: Mr. Potts
     details: Fellow Stagg EKG Electric Kettle
-  - icon: { dark: "./nespresso-dark.png", light: "./nespresso-light.png" }
+  - icon: { dark: "./nespresso-dark.webp", light: "./nespresso-light.webp" }
     title: Classico
     details: Nespresso Essenza Mini
-  - icon: { src: ./hario.png }
+  - icon: { src: ./hario.webp }
     title: V60
     details: Hario V60 Craft Coffee Set
 ---
