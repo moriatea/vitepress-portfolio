@@ -33,9 +33,9 @@ head:
 
 <script setup lang="ts">
 import { defineAsyncComponent } from 'vue'
-import FlightMap from './components/FlightMap.vue'
-
-
+const FlightMap = defineAsyncComponent(() => 
+  import('./components/FlightMap.vue')
+)
 
 // Optimized flight data with compressed structure and type safety
 interface FlightRecord {
