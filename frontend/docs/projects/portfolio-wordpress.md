@@ -13,15 +13,15 @@ The site has since been taken down, so adding in some screenshots here for memor
 ![Homepage](/wp-site-homepage.gif)
 _Homepage of the WordPress site_
 
-![Project Page](/wp-site-projects.png)
+![Project Page](/wp-site-projects.webp)
 _Projects page of the WordPress site_
 
-![Project Page](/wp-site-resources.png)
+![Project Page](/wp-site-resources.webp)
 _Resources page of the WordPress site_
 
 I put Cloudflare in front to help with performance through caching. It definitely made the site load faster, as you can see from the screenshot below:
 
-![Performance Metrics with Cloudflare](/wp-site-cloudflare-metrics.png)
+![Performance Metrics with Cloudflare](/wp-site-cloudflare-metrics.webp)
 _Performance metrics with Cloudflare_
 
 But I guess in 2025 enough is enough and it's time to modernize the whole site. So adios, WordPress! It's time to adopt something more performant and with better DevEx.

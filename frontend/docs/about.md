@@ -34,7 +34,7 @@ hero:
   name: "Stevanus Satria"
   text: "Product Manager"
   image:
-    src: /me.png
+    src: /me.webp
     alt: Stevanus Satria - Senior Product Manager at Workato
   actions:
     - theme: brand
