@@ -101,6 +101,10 @@ export default defineConfig({
     // Canonical URL
     ["link", { rel: "canonical", href: "https://stevanussatria.com" }],
 
+    // DNS prefetch for external resources
+    ["link", { rel: "dns-prefetch", href: "https://fonts.googleapis.com" }],
+    ["link", { rel: "dns-prefetch", href: "https://fonts.gstatic.com" }],
+
     // Preconnect to external domains
     ["link", { rel: "preconnect", href: "https://fonts.googleapis.com" }],
     ["link", { rel: "preconnect", href: "https://fonts.gstatic.com", crossorigin: "" }],
