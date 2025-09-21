@@ -31,12 +31,6 @@ head:
       href: https://stevanussatria.com/recommendations
 ---
 
-<script setup lang="ts">
-import { defineAsyncComponent } from 'vue'
-
-
-</script>
-
 ## Workato
 
 ### Vishakan Subramanian

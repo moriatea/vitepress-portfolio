@@ -104,9 +104,3 @@ features:
     title: V60
     details: Hario V60 Craft Coffee Set
 ---
-
-<script setup lang="ts">
-import { defineAsyncComponent } from 'vue'
-
-
-</script>

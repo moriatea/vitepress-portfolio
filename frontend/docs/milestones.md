@@ -33,9 +33,9 @@ head:
 
 <script setup lang="ts">
 import { defineAsyncComponent } from 'vue'
-import Timeline from './components/Timeline.vue'
-
-
+const Timeline = defineAsyncComponent(() => 
+  import('./components/Timeline.vue')
+)
 
 // Optimized milestone data with compressed structure and type safety
 interface MilestoneRecord {
