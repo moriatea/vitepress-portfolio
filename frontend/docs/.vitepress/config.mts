@@ -161,6 +161,7 @@ export default defineConfig({
       { text: "Projects", link: "/projects" },
       { text: "Milestones", link: "/milestones" },
       { text: "Recommendations", link: "/recommendations" },
+      { text: "AMA", link: "/ama" },
       { text: "Stack", link: "/stack" },
       { text: "Gear", link: "/gear" },
       { text: "Skyline", link: "/skyline" },
