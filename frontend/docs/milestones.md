@@ -1,5 +1,7 @@
 ---
 outline: false
+prev: false
+next: false
 title: "Stevanus Satria | Milestones"
 description: "Key achievements and milestones in Stevanus Satria's professional journey, from academic excellence to career advancement and community contributions."
 keywords: "Stevanus Satria, career milestones, achievements, awards, certifications, professional journey"

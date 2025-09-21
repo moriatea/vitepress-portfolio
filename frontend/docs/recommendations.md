@@ -1,5 +1,7 @@
 ---
 outline: false
+prev: false
+next: false
 title: "Stevanus Satria | Recommendations"
 description: "Professional recommendations and testimonials for Stevanus Satria from colleagues and mentees, highlighting his expertise in product management and software development."
 keywords: "Stevanus Satria, recommendations, testimonials, product management, software development, mentorship"
