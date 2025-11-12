@@ -94,16 +94,21 @@ API • Postman • Agile • Scrum • Product specification • Design thinkin
 
 ## Work Experience
 
+### Airwallex
+
+**Senior Product Manager** | Singapore | October 2025 – Present
+
+- Joined as Senior Product Manager owning all payment plugins built by Airwallex.
+
 ### Workato
 
-**Senior Product Manager** | Singapore | March 2025 – Present  
+**Senior Product Manager** | Singapore | March 2025 – October 2025  
 **Product Manager** | Singapore | June 2022 – March 2025
 
 - Led Workato Data Tables general availability launch as Lookup Tables' successor for all Workato users.
 - Released native XSLT and XSD support adopted by enterprise customers contributing to over US$1 million in ARR.
 - Stabilized legacy database by reducing maximum query execution time by 96% and freeing up 277GB of storage space.
 - Spearheaded migration of 90% of customers using code connectors to sandboxed execution.
-- Led verification effort of Workato solutions for SuccessFactors and Google Cloud integrations with SAP and Google.
 
 ### Shopee
 
@@ -135,7 +140,6 @@ API • Postman • Agile • Scrum • Product specification • Design thinkin
 **Research Officer** | Singapore | October 2016 – Sep 2017
 
 - Published an IEEE paper on novel open-loop algorithm to control the locomotion and behavior of spherical rolling robots.
-- Implemented and fine-tuned a new dead-reckoning localization algorithm for VIRGO, a miniaturized spherical rolling robot developed for defense-related applications.
 - Incorporated a wireless First Person View (FPV) camera onto VIRGO without increasing its overall 60mm footprint.
 
 ## Education
