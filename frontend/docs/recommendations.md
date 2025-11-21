@@ -360,7 +360,7 @@ const recommendationData: Recommendation[] = [
     "title": "Research Officer, Robotics Innovation Lab",
     "company": "SUTD",
     "date": "July 10, 2019",
-    "testimonial": "I had the privilege to work with Stevanus in several course-works and final year project when we were at undergraduate school. Later, we worked together SUTD robotics lab over a year. He is the recipient of countless highly prestigious award from our school, industrial partners and other academic bodies. Stevanus is a creative thinker and hardworking doer who is excel at both theory and hands-on tasks. In group works, he always takes lead with example in every single project. He strives for the best and delivers the highest-quality projects. He also cares about his peers, motivating them and giving them the best advice. I think that with his qualities, Stevanus can thrive in his future career and archive the bests in his life."
+    "testimonial": "I had the privilege to work with Stevanus in several course-works and final year project when we were at undergraduate school. Later, we worked together SUTD robotics lab over a year. He is the recipient of countless highly prestigious award from our school, industrial partners and other academic bodies. Stevanus is a creative thinker and hardworking doer who is excel at both theory and hands-on tasks. In group works, he always takes lead with example in every single project. He strives for the best and delivers the highest-quality projects. He also cares about his peers, motivating them and giving them the best advice. I think that with his qualities, Stevanus can thrive in his future career and achieve the bests in his life."
   }
 ]
 
