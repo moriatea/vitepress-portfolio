@@ -283,13 +283,13 @@ onMounted(async () => {
   >
     <!-- Accordion Header (Summary) -->
     <button
-      class="accordion-header !w-full !text-left !p-4 !flex !items-center !justify-between !cursor-pointer !transition-colors"
+      class="accordion-header !w-full !text-left !p-3 md:!p-4 !flex !items-center !justify-between !cursor-pointer !transition-colors"
       :class="clientSideTheme && isDark ? 'hover:!bg-gray-800/50' : 'hover:!bg-gray-50/50'"
       @click="isExpanded = !isExpanded"
     >
-      <div class="!flex-1 !min-w-0">
+      <div class="!flex-1 !min-w-0 !pr-2">
         <h3
-          class="!text-base !font-bold !mb-2 !truncate"
+          class="!text-sm md:!text-base !font-bold !my-2 !truncate"
           :class="
             clientSideTheme && isDark
               ? '!text-transparent !bg-clip-text !bg-gradient-to-r !from-green-400 !to-emerald-400'
@@ -298,7 +298,9 @@ onMounted(async () => {
         >
           {{ activity.name }}
         </h3>
-        <div class="!grid !grid-cols-2 md:!grid-cols-6 !gap-2 !text-xs">
+        <div
+          class="!grid !grid-cols-2 md:!grid-cols-3 lg:!grid-cols-6 !gap-x-2 !gap-y-1.5 !text-xs"
+        >
           <div class="summary-stat">
             <span class="!font-semibold !opacity-75">Time:</span>
             <span class="!ml-1">{{ formatTime(activity.moving_time) }}</span>
@@ -326,7 +328,7 @@ onMounted(async () => {
         </div>
       </div>
       <svg
-        class="!w-5 !h-5 !ml-4 !flex-shrink-0 !transition-transform !duration-300"
+        class="!w-4 !h-4 md:!w-5 md:!h-5 !ml-2 !flex-shrink-0 !transition-transform !duration-300"
         :class="isExpanded ? '!rotate-180' : ''"
         fill="none"
         stroke="currentColor"
@@ -339,20 +341,20 @@ onMounted(async () => {
     <!-- Accordion Content (Full Details + Map) -->
     <Transition name="accordion">
       <div v-if="isExpanded" class="accordion-content !overflow-hidden">
-        <div class="!p-4 !space-y-4">
+        <div class="!p-3 md:!p-4 !space-y-3 md:!space-y-4">
           <!-- Full Statistics -->
           <div
             class="stats-panel"
             :class="[
-              '!border !shadow-lg !rounded-lg !p-4',
+              '!border !shadow-lg !rounded-lg !p-3 md:!p-4',
               clientSideTheme && isDark
                 ? '!bg-gray-900/95 !text-gray-100 !border-gray-600'
                 : '!bg-white/95 !text-gray-800 !border-gray-300',
             ]"
           >
-            <div class="!mb-3">
+            <div class="!mb-2 md:!mb-3">
               <h4
-                class="!text-sm !font-bold !mb-1"
+                class="!text-xs md:!text-sm !font-bold !my-1"
                 :class="clientSideTheme && isDark ? '!text-gray-200' : '!text-gray-700'"
               >
                 Ride Details
@@ -370,10 +372,12 @@ onMounted(async () => {
               </p>
             </div>
 
-            <div class="stats-grid !grid !grid-cols-2 md:!grid-cols-5 !gap-3 !text-sm">
+            <div
+              class="stats-grid !grid !grid-cols-2 md:!grid-cols-5 !gap-2 md:!gap-3 !text-xs md:!text-sm"
+            >
               <div class="stat-item">
                 <div
-                  class="!text-lg !font-bold !mb-1"
+                  class="!text-base md:!text-lg !font-bold !mb-0.5 md:!mb-1"
                   :class="clientSideTheme && isDark ? '!text-blue-400' : '!text-blue-600'"
                 >
                   {{ formatTime(activity.elapsed_time) }}
@@ -383,7 +387,7 @@ onMounted(async () => {
 
               <div class="stat-item">
                 <div
-                  class="!text-lg !font-bold !mb-1"
+                  class="!text-base md:!text-lg !font-bold !mb-0.5 md:!mb-1"
                   :class="clientSideTheme && isDark ? '!text-green-400' : '!text-green-600'"
                 >
                   {{ formatTime(activity.moving_time) }}
@@ -393,7 +397,7 @@ onMounted(async () => {
 
               <div class="stat-item">
                 <div
-                  class="!text-lg !font-bold !mb-1"
+                  class="!text-base md:!text-lg !font-bold !mb-0.5 md:!mb-1"
                   :class="clientSideTheme && isDark ? '!text-purple-400' : '!text-purple-600'"
                 >
                   {{ formatDistance(activity.distance) }}
@@ -403,7 +407,7 @@ onMounted(async () => {
 
               <div class="stat-item">
                 <div
-                  class="!text-lg !font-bold !mb-1"
+                  class="!text-base md:!text-lg !font-bold !mb-0.5 md:!mb-1"
                   :class="clientSideTheme && isDark ? '!text-orange-400' : '!text-orange-600'"
                 >
                   {{ formatElevation(activity.total_elevation_gain) }}
@@ -413,7 +417,7 @@ onMounted(async () => {
 
               <div class="stat-item">
                 <div
-                  class="!text-lg !font-bold !mb-1"
+                  class="!text-base md:!text-lg !font-bold !mb-0.5 md:!mb-1"
                   :class="clientSideTheme && isDark ? '!text-cyan-400' : '!text-cyan-600'"
                 >
                   {{ formatSpeed(activity.average_speed) }}
@@ -423,7 +427,7 @@ onMounted(async () => {
 
               <div class="stat-item">
                 <div
-                  class="!text-lg !font-bold !mb-1"
+                  class="!text-base md:!text-lg !font-bold !mb-0.5 md:!mb-1"
                   :class="clientSideTheme && isDark ? '!text-red-400' : '!text-red-600'"
                 >
                   {{ formatSpeed(activity.max_speed) }}
@@ -433,7 +437,7 @@ onMounted(async () => {
 
               <div class="stat-item">
                 <div
-                  class="!text-lg !font-bold !mb-1"
+                  class="!text-base md:!text-lg !font-bold !mb-0.5 md:!mb-1"
                   :class="clientSideTheme && isDark ? '!text-yellow-400' : '!text-yellow-600'"
                 >
                   {{ formatPower(activity.average_watts) }}
@@ -443,7 +447,7 @@ onMounted(async () => {
 
               <div class="stat-item">
                 <div
-                  class="!text-lg !font-bold !mb-1"
+                  class="!text-base md:!text-lg !font-bold !mb-0.5 md:!mb-1"
                   :class="clientSideTheme && isDark ? '!text-pink-400' : '!text-pink-600'"
                 >
                   {{ formatEnergy(activity.kilojoules) }}
@@ -453,7 +457,7 @@ onMounted(async () => {
 
               <div class="stat-item">
                 <div
-                  class="!text-lg !font-bold !mb-1"
+                  class="!text-base md:!text-lg !font-bold !mb-0.5 md:!mb-1"
                   :class="clientSideTheme && isDark ? '!text-rose-400' : '!text-rose-600'"
                 >
                   {{ formatHeartRate(activity.average_heartrate) }}
@@ -463,7 +467,7 @@ onMounted(async () => {
 
               <div class="stat-item">
                 <div
-                  class="!text-lg !font-bold !mb-1"
+                  class="!text-base md:!text-lg !font-bold !mb-0.5 md:!mb-1"
                   :class="clientSideTheme && isDark ? '!text-indigo-400' : '!text-indigo-600'"
                 >
                   {{ formatHeartRate(activity.max_heartrate) }}
@@ -474,7 +478,7 @@ onMounted(async () => {
           </div>
 
           <!-- Map -->
-          <div v-if="isClient" class="map-container" :style="{ height: mapHeight || '600px' }">
+          <div v-if="isClient" class="map-container" :style="{ height: mapHeight || '400px' }">
             <LMap
               ref="mapRef"
               :zoom="currentZoom"
@@ -595,6 +599,7 @@ onMounted(async () => {
   display: flex;
   align-items: center;
   white-space: nowrap;
+  flex-wrap: wrap;
 }
 
 .stats-panel {
@@ -619,7 +624,7 @@ onMounted(async () => {
 .map-container {
   position: relative;
   width: 100%;
-  min-height: 400px;
+  min-height: 300px;
   border-radius: 0.5rem;
   overflow: hidden;
 }
@@ -699,17 +704,56 @@ onMounted(async () => {
 }
 
 @media (max-width: 768px) {
+  .accordion-header {
+    padding: 0.75rem;
+  }
+
   .summary-stat {
-    font-size: 0.75rem;
+    font-size: 0.7rem;
+    line-height: 1.3;
+  }
+
+  .summary-stat span:first-child {
+    font-size: 0.65rem;
   }
 
   .stats-grid {
     grid-template-columns: repeat(2, 1fr) !important;
-    gap: 1rem !important;
+    gap: 0.75rem !important;
   }
 
   .stat-item {
-    font-size: 0.875rem;
+    font-size: 0.75rem;
+  }
+
+  .map-container {
+    min-height: 300px;
+  }
+
+  .stats-panel {
+    padding: 0.75rem !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .accordion-header {
+    padding: 0.625rem;
+  }
+
+  .summary-stat {
+    font-size: 0.65rem;
+  }
+
+  .summary-stat span:first-child {
+    font-size: 0.6rem;
+  }
+
+  .stats-grid {
+    gap: 0.5rem !important;
+  }
+
+  .map-container {
+    min-height: 250px;
   }
 }
 </style>

@@ -13,7 +13,7 @@ author: "Stevanus Satria"
     "id": 18347400,
     "resource_state": 1
   },
-  "name": "Morning Ride - Solo Round The Island (RTI)",
+  "name": "Solo Round The Island (RTI)",
   "distance": 124343,
   "moving_time": 17333,
   "elapsed_time": 21649,
@@ -33367,7 +33367,7 @@ author: "Stevanus Satria"
     "id": 18347400,
     "resource_state": 1
   },
-  "name": "Morning Ride - West Coast Hwy + 2x Faber Loop",
+  "name": "West Coast Hwy + 2x Faber Loop",
   "distance": 47137.5,
   "moving_time": 6758,
   "elapsed_time": 7004,
@@ -39065,7 +39065,7 @@ author: "Stevanus Satria"
     "id": 18347400,
     "resource_state": 1
   },
-  "name": "Morning Ride - ECP & TMCR with Alexey",
+  "name": "ECP & TMCR with Alexey",
   "distance": 60013.4,
   "moving_time": 8536,
   "elapsed_time": 9357,
@@ -45554,7 +45554,7 @@ author: "Stevanus Satria"
     "id": 18347400,
     "resource_state": 1
   },
-  "name": "Morning Ride - Diwali Sentosa + Faber Loops",
+  "name": "Diwali Sentosa + Faber Loops",
   "distance": 61392.8,
   "moving_time": 9410,
   "elapsed_time": 11117,
@@ -53415,7 +53415,7 @@ author: "Stevanus Satria"
     "id": 18347400,
     "resource_state": 1
   },
-  "name": "Afternoon Ride - GDO Sentosa + Faber Loops",
+  "name": "GDO Sentosa + Faber Loops",
   "distance": 58100.9,
   "moving_time": 9359,
   "elapsed_time": 10919,
@@ -60209,7 +60209,7 @@ author: "Stevanus Satria"
     "id": 18347400,
     "resource_state": 1
   },
-  "name": "Evening Ride - Bedok Reservoir + Loyang + TMCR",
+  "name": "Bedok Reservoir + Loyang + TMCR",
   "distance": 60122.4,
   "moving_time": 8853,
   "elapsed_time": 11470,
@@ -65385,7 +65385,7 @@ author: "Stevanus Satria"
     "id": 18347400,
     "resource_state": 1
   },
-  "name": "Evening Ride - Loyang + TMCR",
+  "name": "Loyang + TMCR",
   "distance": 58850,
   "moving_time": 8475,
   "elapsed_time": 10254,
@@ -70786,7 +70786,7 @@ author: "Stevanus Satria"
     "id": 18347400,
     "resource_state": 1
   },
-  "name": "Night Ride - Impromptu TMCR Round Trip",
+  "name": "Impromptu TMCR Round Trip",
   "distance": 64082.2,
   "moving_time": 8639,
   "elapsed_time": 11257,
@@ -76147,7 +76147,7 @@ author: "Stevanus Satria"
     "id": 18347400,
     "resource_state": 1
   },
-  "name": "Morning Ride - ECP & TMCR",
+  "name": "ECP & TMCR",
   "distance": 69542,
   "moving_time": 10890,
   "elapsed_time": 11234,
