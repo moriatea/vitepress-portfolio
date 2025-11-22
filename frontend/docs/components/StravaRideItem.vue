@@ -289,7 +289,7 @@ onMounted(async () => {
     >
       <div class="!flex-1 !min-w-0 !pr-2">
         <h3
-          class="!text-sm md:!text-base !font-bold !my-2 !truncate"
+          class="!text-sm md:!text-base !font-bold !mt-0 !mb-2 !truncate"
           :class="
             clientSideTheme && isDark
               ? '!text-transparent !bg-clip-text !bg-gradient-to-r !from-green-400 !to-emerald-400'
@@ -354,7 +354,7 @@ onMounted(async () => {
           >
             <div class="!mb-2 md:!mb-3">
               <h4
-                class="!text-xs md:!text-sm !font-bold !my-1"
+                class="!text-xs md:!text-sm !font-bold !mt-0 !mb-1"
                 :class="clientSideTheme && isDark ? '!text-gray-200' : '!text-gray-700'"
               >
                 Ride Details

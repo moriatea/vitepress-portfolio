@@ -1,13 +1,38 @@
 ---
 layout: home
-title: "Strava Rides"
-description: "Explore bike ride activities and statistics from Strava, visualized on an interactive map."
-keywords: "Strava, bike rides, cycling, fitness, activity tracking"
+title: "Loops"
+description: "Discover Stevanus Satria's curated road bike ride highlights, visualized through interactive maps and data from Strava."
+keywords: "Stevanus Satria, road cycling, Strava rides, ride highlights, cycling map, bike routes"
 author: "Stevanus Satria"
+head:
+  - - meta
+    - property: og:title
+      content: "Loops"
+  - - meta
+    - property: og:description
+      content: "Discover Stevanus Satria's curated road bike ride highlights, visualized through interactive maps and data from Strava."
+  - - meta
+    - property: og:type
+      content: website
+  - - meta
+    - property: og:url
+      content: https://stevanussatria.com/loops
+  - - meta
+    - name: twitter:title
+      content: "Loops"
+  - - meta
+    - name: twitter:description
+      content: "Discover Stevanus Satria's curated road bike ride highlights, visualized through interactive maps and data from Strava."
+  - - meta
+    - name: twitter:card
+      content: summary_large_image
+  - - link
+    - rel: canonical
+      href: https://stevanussatria.com/loops
 ---
 
 <script setup lang="ts">
-    const activities = [{
+const activities = [{
   "resource_state": 3,
   "athlete": {
     "id": 18347400,
@@ -83555,7 +83580,7 @@ author: "Stevanus Satria"
 ]
 
 import { defineAsyncComponent } from 'vue'
-const StravaRideVisualizer = defineAsyncComponent(() => 
+const StravaRideVisualizer = defineAsyncComponent(() =>
   import('./components/StravaRideVisualizer.vue')
 )
 </script>
