@@ -289,14 +289,72 @@ onMounted(async () => {
     >
       <div class="!flex-1 !min-w-0 !pr-2">
         <h3
-          class="!text-sm md:!text-base !font-bold !mt-0 !mb-2 !truncate"
+          class="!text-sm md:!text-base !font-bold !mt-0 !mb-2 !flex !items-center !gap-2"
           :class="
             clientSideTheme && isDark
               ? '!text-transparent !bg-clip-text !bg-gradient-to-r !from-green-400 !to-emerald-400'
               : '!text-transparent !bg-clip-text !bg-gradient-to-r !from-green-600 !to-emerald-600'
           "
         >
-          {{ activity.name }}
+          <svg
+            class="!w-4 !h-4 md:!w-5 md:!h-5 !flex-shrink-0"
+            :class="clientSideTheme && isDark ? '!text-green-400' : '!text-green-600'"
+            fill="none"
+            stroke="currentColor"
+            viewBox="0 0 24 24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <!-- Rear wheel - bigger -->
+            <circle cx="6" cy="15" r="4" stroke="currentColor" stroke-width="1.5" fill="none" />
+
+            <!-- Front wheel - bigger -->
+            <circle cx="18" cy="15" r="4" stroke="currentColor" stroke-width="1.5" fill="none" />
+
+            <!-- Frame - rear triangle (shorter) -->
+            <path
+              d="M6 15 L10 8.5"
+              stroke="currentColor"
+              stroke-width="1.5"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            />
+
+            <!-- Frame - top tube and down tube (shorter, more compact) -->
+            <path
+              d="M10 8.5 L15 8.5 M10 8.5 L14 15"
+              stroke="currentColor"
+              stroke-width="1.5"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            />
+
+            <!-- Seat post and saddle -->
+            <path
+              d="M10 8.5 L10 5.5 M9 5.5 L11 5.5"
+              stroke="currentColor"
+              stroke-width="1.5"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            />
+
+            <!-- Front fork and handlebars -->
+            <path
+              d="M15 8.5 L18 15 M15 8.5 L15 6 M14 6 L16 6"
+              stroke="currentColor"
+              stroke-width="1.5"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            />
+
+            <!-- Chain stays connecting to wheels -->
+            <path
+              d="M14 15 L18 15 M6 15 L10 15"
+              stroke="currentColor"
+              stroke-width="1.5"
+              stroke-linecap="round"
+            />
+          </svg>
+          <span class="!truncate">{{ activity.name }}</span>
         </h3>
         <div
           class="!grid !grid-cols-2 md:!grid-cols-3 lg:!grid-cols-6 !gap-x-2 !gap-y-1.5 !text-xs"
