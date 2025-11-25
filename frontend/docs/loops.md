@@ -34379,6 +34379,2513 @@ const activities = [{
     "id": 18347400,
     "resource_state": 1
   },
+  "name": "2XU Compression Run 2019",
+  "distance": 21593.5,
+  "moving_time": 8544,
+  "elapsed_time": 9598,
+  "total_elevation_gain": 281.5,
+  "type": "Run",
+  "sport_type": "Run",
+  "workout_type": 1,
+  "id": 2552753144,
+  "start_date": "2019-04-06T21:01:26Z",
+  "start_date_local": "2019-04-07T05:01:26Z",
+  "timezone": "(GMT+08:00) Asia/Singapore",
+  "utc_offset": 28800,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 9,
+  "kudos_count": 0,
+  "comment_count": 0,
+  "athlete_count": 46,
+  "photo_count": 0,
+  "map": {
+    "id": "a2552753144",
+    "polyline": "wn{Fy}|xRIAc@@_Eb@GBsAjAi@lB[t@@Fn@p@zB?jBc@lBo@?Am@MmBt@gCFSGSKUa@Qc@q@s@uBNC?GHm@nB{Ax@wBPEAaFeAgBk@sAWi@UKIkAiA_AkBc@aCk@gB{@sB_A{Ao@k@i@q@gBeAiBy@GA{BNoBlAiAz@GHVTdBiAlB{@tB@LBzAr@`BnAhAtA`A~Ap@dBn@xB?DSbBuAtA@D`AtA`ArB|@zApA|AxBhD~A|Bd@j@t@z@pAfATJn@n@|ArAvAdAfAhAqBs@wAmA{DyDoAuAkA}AyA{A_AwBiAeBoA_BiA{BuCeE_AeB{AuBOOgEaHiC_FiAeBgCwEwGoLs@uAQa@m@mB[sBKcCGwFOcCQuBq@aCXeAbBfAh@MXBFDTh@xBM|B}@pBwA|AFp@tBOzB@F|@xAvAbBfBnEtAz@x@xBBB|AAtB{@fBObAwAD?jEtBBDd@`BPtBa@pBZbBl@zBPlBHxA?vJSzAEBk@`BBFjA|AzAj@nBHzBDjGs@jB]t@_Aa@yBYaC@AlBIj@a@iA_AM_@BaCJ{BS}Bg@{BG}B?qFVeBv@qBvDwDdBQ~AUlC?nBMnBg@hBs@zAcAdBmA`BqAx@y@DaACEiA}A}@cBkCuEy@_BoAcBaEmHgAeB_E_IQa@~@hBv@pB~@fBjAlBv@|AlAjB|@hBpC~Dx@~A|@tAdAlBlA|Aj@dBlAv@zAs@fBiAnBi@`CWxBFvBf@fBjAnAxAzC~E?t@y@~@u@bAe@vBkDtC{AhAkB~@wAdAaBdAy@pABBjBB|B@Du@gAi@DCxAc@bAfBDBjDsC~AkBpAiApBcABBz@tAp@zAtAbCl@|@z@fAZp@AtCg@^XEHaC@p@FME@u@d@q@|@ITQPw@Ju@l@kCbDmAfBoCpEg@xB}@zAy@pD[XUZa@\\OVGRQjBEzBuAfBCFeAnFSn@Gb@Mn@OZAl@c@bBQtB_@dCDBlB\\VKZ]TKr@?l@BJB`EbB^L|C`BhBbBvAxArBtAxBpA`ChADDCzB{@`BaAv@k@i@KBaBd@gAx@HzBDDnBfABC\\iA`A}Ax@}BNf@CDPpAsAp@WrAIFDTCLCDO@ED[z@KPGDiCZKEQ[KG@OIOe@[u@Qg@B_@AMHGHQDi@Bk@VeCd@uBm@OOCMH[V_B?KI]GC_Cu@wA_@mAG{ANqAFaBCyAWcAk@u@eAIcC\\gHFwBEqAPcC`@gHX{BCc@G[i@kBG]D]J}A?_DDyA",
+    "resource_state": 3,
+    "summary_polyline": "wn{Fy}|xRIAc@@gEf@sAjAi@lB[t@p@x@zB?jBc@lBo@?Am@MmBt@gCFSGSKUa@Qc@q@s@uBNKHm@nB{Ax@}BNaFeAgBk@sAWi@UKIkAiA_AkBc@aCk@gB{@sB_A{Ao@k@i@q@gBeAqB{@{BNoBlAiAz@GHVTdBiAlB{@|B@`Bv@~AlAjAvA`A~Ap@dBn@xBShBuAtAbAzA`ArB|@zApA|AxBhD~A|BrA~AxAnATJn@n@|ArAvAdAfAhAqBs@wAmAqCqCkBoByAkByA{A_AwBiAeBoA_BkA_CsCaE_AeB{AuBOOgEaHiC_FiAeBgCwEmG}KkAaCq@uB[sBKcCGwFOcCQuBq@aCXeAbBfAh@MXBFDTh@bCQrBy@pBwA|AFp@tBOzB@F|@xAvAbBfBnEtAz@x@xBBB|AAtB{@fBObAwAD?jEtBh@fBPtBa@pBZbBl@zBPlBHxA?vJSzAEBk@`BBFjA|AzAj@jFNjGs@jB]t@_Aa@yBYaC@AlBIj@a@iA_AM_@BaCJ{BS}Bg@{BG}B?qFVeBv@qBvDwDdEg@lC?nBMnBg@hBs@`EqC`BqAx@y@DaACEiA}AcGyKoAcBaEmHgAeB_E_IQa@~@hBv@pB~@fBjAlBv@|AlAjB|@hBpC~Dx@~A|@tAdAlBlA|Aj@dBlAv@zAs@fBiAnBi@`CWxBFvBf@fBjAnAxAzC~E?t@y@~@u@bAe@vBkDtC{AhAkB~@wAdAaBdAy@pABBjBB|B@Du@gAi@~Ag@bAfBDBjDsC~AkBpAiApBcA~@xAp@zAtAbCl@|@z@fAZp@AtCg@^XEHaC@p@FME@u@d@q@|@ITQPw@Ju@l@kCbDmAfBoCpEg@xB}@zAy@pD[XUZa@\\OVGRQjBEzByAnBeAnFSn@UrAOZAl@c@bBQtB_@dCDBlB\\VKZ]TKr@?l@BlEfB^L|C`BhBbBvAxArBtAxBpA`ChADDCzB{@`BaAv@k@i@KBaBd@gAx@HzBDDnBfABC\\iA`A}Ax@}BNf@CDPpAsAp@WrAIFDTCLCDO@ED[z@KPGDiCZKEQ[KG@OIOe@[u@Qg@B_@AURQDi@Bk@VeCd@uBm@OOCM`@{B?KI]GCwEuAmAG{ANqAFaBCyAWcAk@u@eAIcC\\gHFwBEqAPcC`@gHX{BCc@G[q@iCD]J}A?_DDyA"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "g4710897",
+  "start_latlng": [
+    1.29,
+    103.86
+  ],
+  "end_latlng": [
+    1.29,
+    103.86
+  ],
+  "average_speed": 2.25,
+  "max_speed": 13.9,
+  "has_heartrate": false,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": false,
+  "elev_high": 56.2,
+  "elev_low": -138.5,
+  "upload_id": 2709467785,
+  "upload_id_str": "2709467785",
+  "external_id": "2019-04-06T21_01_26Z_PT2H39M57S_Running.tcx",
+  "from_accepted_tag": false,
+  "pr_count": 6,
+  "total_photo_count": 5,
+  "has_kudoed": false,
+  "description": "First half-marathon (2nd that is >21km)!",
+  "calories": 1728,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 64151388225,
+      "resource_state": 2,
+      "name": "2XU Compression Run Singapore Half Marathon",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 9588,
+      "moving_time": 8541,
+      "start_date": "2019-04-06T21:01:29Z",
+      "start_date_local": "2019-04-07T05:01:29Z",
+      "distance": 21493.4,
+      "start_index": 1,
+      "end_index": 9058,
+      "device_watts": false,
+      "segment": {
+        "id": 20247470,
+        "resource_state": 2,
+        "name": "2XU Compression Run Singapore Half Marathon",
+        "activity_type": "Run",
+        "distance": 21493.4,
+        "average_grade": -0.1,
+        "maximum_grade": 47.1,
+        "elevation_high": 67.3,
+        "elevation_low": -4.8,
+        "start_latlng": [
+          1.292752,
+          103.864003
+        ],
+        "end_latlng": [
+          1.288653,
+          103.863713
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151387678,
+      "resource_state": 2,
+      "name": "Nicoll Hwy",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 687,
+      "moving_time": 636,
+      "start_date": "2019-04-06T21:17:06Z",
+      "start_date_local": "2019-04-07T05:17:06Z",
+      "distance": 1037.5,
+      "start_index": 912,
+      "end_index": 1569,
+      "device_watts": false,
+      "segment": {
+        "id": 5392583,
+        "resource_state": 2,
+        "name": "Nicoll Hwy",
+        "activity_type": "Run",
+        "distance": 1037.5,
+        "average_grade": 0.2,
+        "maximum_grade": 18.6,
+        "elevation_high": 31.9,
+        "elevation_low": 0,
+        "start_latlng": [
+          1.30282,
+          103.866533
+        ],
+        "end_latlng": [
+          1.297195,
+          103.859206
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151387730,
+      "resource_state": 2,
+      "name": "RT Nicoll Highway towards Mountbatten",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 975,
+      "moving_time": 929,
+      "start_date": "2019-04-06T21:32:16Z",
+      "start_date_local": "2019-04-07T05:32:16Z",
+      "distance": 2381.9,
+      "start_index": 1776,
+      "end_index": 2743,
+      "device_watts": false,
+      "segment": {
+        "id": 6776457,
+        "resource_state": 2,
+        "name": "RT Nicoll Highway towards Mountbatten",
+        "activity_type": "Run",
+        "distance": 2381.9,
+        "average_grade": -0.1,
+        "maximum_grade": 20.9,
+        "elevation_high": 33.1,
+        "elevation_low": -3.3,
+        "start_latlng": [
+          1.297252,
+          103.859046
+        ],
+        "end_latlng": [
+          1.307854,
+          103.87701
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151387720,
+      "resource_state": 2,
+      "name": "RT Nicholl HIghway across Merdeka",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 385,
+      "moving_time": 360,
+      "start_date": "2019-04-06T21:37:05Z",
+      "start_date_local": "2019-04-07T05:37:05Z",
+      "distance": 920.2,
+      "start_index": 2059,
+      "end_index": 2442,
+      "device_watts": false,
+      "segment": {
+        "id": 7819196,
+        "resource_state": 2,
+        "name": "RT Nicholl HIghway across Merdeka",
+        "activity_type": "Run",
+        "distance": 920.2,
+        "average_grade": -2.1,
+        "maximum_grade": 4.8,
+        "elevation_high": 27.5,
+        "elevation_low": 4.8,
+        "start_latlng": [
+          1.300978,
+          103.863986
+        ],
+        "end_latlng": [
+          1.305586,
+          103.870821
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 2852455300308114400,
+      "resource_state": 2,
+      "name": "Nicoll Hwy Bridge HOOK!",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 199,
+      "moving_time": 199,
+      "start_date": "2019-04-06T21:40:17Z",
+      "start_date_local": "2019-04-07T05:40:17Z",
+      "distance": 540,
+      "start_index": 2249,
+      "end_index": 2448,
+      "device_watts": false,
+      "segment": {
+        "id": 29201117,
+        "resource_state": 2,
+        "name": "Nicoll Hwy Bridge HOOK!",
+        "activity_type": "Run",
+        "distance": 540,
+        "average_grade": -0.2,
+        "maximum_grade": 5,
+        "elevation_high": 13.5,
+        "elevation_low": 10.4,
+        "start_latlng": [
+          1.303438,
+          103.867287
+        ],
+        "end_latlng": [
+          1.30556,
+          103.871008
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151387706,
+      "resource_state": 2,
+      "name": "Merdeka Bridge",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 104,
+      "moving_time": 104,
+      "start_date": "2019-04-06T21:40:27Z",
+      "start_date_local": "2019-04-07T05:40:27Z",
+      "distance": 244.66,
+      "start_index": 2259,
+      "end_index": 2363,
+      "device_watts": false,
+      "segment": {
+        "id": 3391566,
+        "resource_state": 2,
+        "name": "Merdeka Bridge",
+        "activity_type": "Run",
+        "distance": 244.66,
+        "average_grade": 1.3,
+        "maximum_grade": 4.9,
+        "elevation_high": 11.3,
+        "elevation_low": 6.1,
+        "start_latlng": [
+          1.3035076,
+          103.8674995
+        ],
+        "end_latlng": [
+          1.30473,
+          103.8693301
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Kallang, Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3210375150670048000,
+      "resource_state": 2,
+      "name": "arena park to footbridge",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 471,
+      "moving_time": 471,
+      "start_date": "2019-04-06T21:51:49Z",
+      "start_date_local": "2019-04-07T05:51:49Z",
+      "distance": 1001.3,
+      "start_index": 2924,
+      "end_index": 3393,
+      "device_watts": false,
+      "segment": {
+        "id": 36597398,
+        "resource_state": 2,
+        "name": "arena park to footbridge",
+        "activity_type": "Run",
+        "distance": 1001.3,
+        "average_grade": -0.3,
+        "maximum_grade": 5.9,
+        "elevation_high": 14.4,
+        "elevation_low": 8.7,
+        "start_latlng": [
+          1.304483,
+          103.877168
+        ],
+        "end_latlng": [
+          1.298538,
+          103.87334
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 2838128739937947000,
+      "resource_state": 2,
+      "name": "SuperTrail 100m Sprints",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 35,
+      "moving_time": 35,
+      "start_date": "2019-04-06T21:59:55Z",
+      "start_date_local": "2019-04-07T05:59:55Z",
+      "distance": 102.8,
+      "start_index": 3408,
+      "end_index": 3443,
+      "device_watts": false,
+      "segment": {
+        "id": 28766121,
+        "resource_state": 2,
+        "name": "SuperTrail 100m Sprints",
+        "activity_type": "Run",
+        "distance": 102.8,
+        "average_grade": 0.6,
+        "maximum_grade": 7.5,
+        "elevation_high": 383.4,
+        "elevation_low": 380.8,
+        "start_latlng": [
+          1.298073,
+          103.873243
+        ],
+        "end_latlng": [
+          1.297927,
+          103.872335
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 74072804018,
+      "resource_state": 2,
+      "name": "Tanjong Rhu Promenade - Straight (R)",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 226,
+      "moving_time": 200,
+      "start_date": "2019-04-06T22:00:53Z",
+      "start_date_local": "2019-04-07T06:00:53Z",
+      "distance": 492.1,
+      "start_index": 3466,
+      "end_index": 3694,
+      "device_watts": false,
+      "segment": {
+        "id": 22587661,
+        "resource_state": 2,
+        "name": "Tanjong Rhu Promenade - Straight (R)",
+        "activity_type": "Run",
+        "distance": 492.1,
+        "average_grade": -1.1,
+        "maximum_grade": 1.6,
+        "elevation_high": 10,
+        "elevation_low": 4.3,
+        "start_latlng": [
+          1.29855,
+          103.87193
+        ],
+        "end_latlng": [
+          1.297976,
+          103.867616
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151387817,
+      "resource_state": 2,
+      "name": "round the outside",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 476,
+      "moving_time": 450,
+      "start_date": "2019-04-06T22:00:58Z",
+      "start_date_local": "2019-04-07T06:00:58Z",
+      "distance": 1080.1,
+      "start_index": 3471,
+      "end_index": 3946,
+      "device_watts": false,
+      "segment": {
+        "id": 6855762,
+        "resource_state": 2,
+        "name": "round the outside",
+        "activity_type": "Run",
+        "distance": 1080.1,
+        "average_grade": 0.1,
+        "maximum_grade": 45.9,
+        "elevation_high": 76.9,
+        "elevation_low": 7.7,
+        "start_latlng": [
+          1.298689,
+          103.871869
+        ],
+        "end_latlng": [
+          1.294624,
+          103.86638
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151387802,
+      "resource_state": 2,
+      "name": "Geylang Bicycle Track / Park Connector Climb",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 173,
+      "moving_time": 173,
+      "start_date": "2019-04-06T22:04:31Z",
+      "start_date_local": "2019-04-07T06:04:31Z",
+      "distance": 307.4,
+      "start_index": 3686,
+      "end_index": 3856,
+      "device_watts": false,
+      "segment": {
+        "id": 1101471,
+        "resource_state": 2,
+        "name": "Geylang Bicycle Track / Park Connector Climb",
+        "activity_type": "Run",
+        "distance": 307.4,
+        "average_grade": 0,
+        "maximum_grade": 0,
+        "elevation_high": 45.6,
+        "elevation_low": 45.6,
+        "start_latlng": [
+          1.297702006995678,
+          103.86771144345403
+        ],
+        "end_latlng": [
+          1.2965013831853867,
+          103.86620781384408
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 74072903898,
+      "resource_state": 2,
+      "name": "Tanjong Rhu Promenade - Head (R)",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 91,
+      "moving_time": 91,
+      "start_date": "2019-04-06T22:04:44Z",
+      "start_date_local": "2019-04-07T06:04:44Z",
+      "distance": 225.4,
+      "start_index": 3699,
+      "end_index": 3788,
+      "device_watts": false,
+      "segment": {
+        "id": 22587652,
+        "resource_state": 2,
+        "name": "Tanjong Rhu Promenade - Head (R)",
+        "activity_type": "Run",
+        "distance": 225.4,
+        "average_grade": -1.2,
+        "maximum_grade": 2.2,
+        "elevation_high": 4.3,
+        "elevation_low": 1.6,
+        "start_latlng": [
+          1.298047,
+          103.867559
+        ],
+        "end_latlng": [
+          1.297838,
+          103.866172
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 74197656972,
+      "resource_state": 2,
+      "name": "Rhu Cross - 1",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 225,
+      "moving_time": 225,
+      "start_date": "2019-04-06T22:11:51Z",
+      "start_date_local": "2019-04-07T06:11:51Z",
+      "distance": 524.6,
+      "start_index": 4122,
+      "end_index": 4347,
+      "device_watts": false,
+      "segment": {
+        "id": 22602634,
+        "resource_state": 2,
+        "name": "Rhu Cross - 1",
+        "activity_type": "Run",
+        "distance": 524.6,
+        "average_grade": 1.1,
+        "maximum_grade": 5.3,
+        "elevation_high": 10.5,
+        "elevation_low": 4.4,
+        "start_latlng": [
+          1.294143,
+          103.868575
+        ],
+        "end_latlng": [
+          1.294481,
+          103.873188
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151387828,
+      "resource_state": 2,
+      "name": "Road To Nowhere",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 324,
+      "moving_time": 324,
+      "start_date": "2019-04-06T22:24:36Z",
+      "start_date_local": "2019-04-07T06:24:36Z",
+      "distance": 688.5,
+      "start_index": 4875,
+      "end_index": 5198,
+      "device_watts": false,
+      "segment": {
+        "id": 3993573,
+        "resource_state": 2,
+        "name": "Road To Nowhere",
+        "activity_type": "Run",
+        "distance": 688.5,
+        "average_grade": 0.1,
+        "maximum_grade": 2.2,
+        "elevation_high": 9.8,
+        "elevation_low": 7.5,
+        "start_latlng": [
+          1.289152,
+          103.879163
+        ],
+        "end_latlng": [
+          1.292601,
+          103.884527
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151387841,
+      "resource_state": 2,
+      "name": "wind up",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 299,
+      "moving_time": 248,
+      "start_date": "2019-04-06T22:37:33Z",
+      "start_date_local": "2019-04-07T06:37:33Z",
+      "distance": 673.7,
+      "start_index": 5651,
+      "end_index": 5951,
+      "device_watts": false,
+      "segment": {
+        "id": 6952980,
+        "resource_state": 2,
+        "name": "wind up",
+        "activity_type": "Run",
+        "distance": 673.7,
+        "average_grade": -0.7,
+        "maximum_grade": 0,
+        "elevation_high": 9.6,
+        "elevation_low": 4.6,
+        "start_latlng": [
+          1.287441,
+          103.877012
+        ],
+        "end_latlng": [
+          1.28249,
+          103.875957
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151388002,
+      "resource_state": 2,
+      "name": "já tá na hora de ir para casa",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 1119,
+      "moving_time": 938,
+      "start_date": "2019-04-06T23:02:21Z",
+      "start_date_local": "2019-04-07T07:02:21Z",
+      "distance": 2388.6,
+      "start_index": 6849,
+      "end_index": 7889,
+      "device_watts": false,
+      "segment": {
+        "id": 20402292,
+        "resource_state": 2,
+        "name": "já tá na hora de ir para casa",
+        "activity_type": "Run",
+        "distance": 2388.6,
+        "average_grade": -0.1,
+        "maximum_grade": 6,
+        "elevation_high": 18.8,
+        "elevation_low": 14.8,
+        "start_latlng": [
+          1.280696,
+          103.870699
+        ],
+        "end_latlng": [
+          1.281001,
+          103.854339
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151387864,
+      "resource_state": 2,
+      "name": "RT The Final Countdown",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 545,
+      "moving_time": 480,
+      "start_date": "2019-04-06T23:03:02Z",
+      "start_date_local": "2019-04-07T07:03:02Z",
+      "distance": 1118.3,
+      "start_index": 6887,
+      "end_index": 7405,
+      "device_watts": false,
+      "segment": {
+        "id": 6747581,
+        "resource_state": 2,
+        "name": "RT The Final Countdown",
+        "activity_type": "Run",
+        "distance": 1118.3,
+        "average_grade": 0.1,
+        "maximum_grade": 9.5,
+        "elevation_high": 13.4,
+        "elevation_low": 2.9,
+        "start_latlng": [
+          1.281233,
+          103.870497
+        ],
+        "end_latlng": [
+          1.285838,
+          103.861975
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3032281272100783000,
+      "resource_state": 2,
+      "name": "Waterfront Dash",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 130,
+      "moving_time": 130,
+      "start_date": "2019-04-06T23:06:42Z",
+      "start_date_local": "2019-04-07T07:06:42Z",
+      "distance": 275.5,
+      "start_index": 7085,
+      "end_index": 7210,
+      "device_watts": false,
+      "segment": {
+        "id": 33355509,
+        "resource_state": 2,
+        "name": "Waterfront Dash",
+        "activity_type": "Run",
+        "distance": 275.5,
+        "average_grade": 0,
+        "maximum_grade": 1.6,
+        "elevation_high": 9.3,
+        "elevation_low": 8.8,
+        "start_latlng": [
+          1.28325,
+          103.867775
+        ],
+        "end_latlng": [
+          1.284395,
+          103.865676
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151388038,
+      "resource_state": 2,
+      "name": "RT MBS Mile return",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 700,
+      "moving_time": 564,
+      "start_date": "2019-04-06T23:11:12Z",
+      "start_date_local": "2019-04-07T07:11:12Z",
+      "distance": 1609.4,
+      "start_index": 7350,
+      "end_index": 8003,
+      "device_watts": false,
+      "segment": {
+        "id": 15758123,
+        "resource_state": 2,
+        "name": "RT MBS Mile return",
+        "activity_type": "Run",
+        "distance": 1609.4,
+        "average_grade": 0,
+        "maximum_grade": 2.9,
+        "elevation_high": 22.8,
+        "elevation_low": 19,
+        "start_latlng": [
+          1.285527,
+          103.862972
+        ],
+        "end_latlng": [
+          1.282047,
+          103.852846
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151387919,
+      "resource_state": 2,
+      "name": "Casino Runner",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 362,
+      "moving_time": 307,
+      "start_date": "2019-04-06T23:13:33Z",
+      "start_date_local": "2019-04-07T07:13:33Z",
+      "distance": 962.242,
+      "start_index": 7448,
+      "end_index": 7810,
+      "device_watts": false,
+      "segment": {
+        "id": 1014825,
+        "resource_state": 2,
+        "name": "Casino Runner",
+        "activity_type": "Run",
+        "distance": 962.242,
+        "average_grade": 0.8,
+        "maximum_grade": 10.7,
+        "elevation_high": 14.3,
+        "elevation_low": 6.7,
+        "start_latlng": [
+          1.2865325328010049,
+          103.86044518712207
+        ],
+        "end_latlng": [
+          1.2802171742645587,
+          103.85590761581236
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151388083,
+      "resource_state": 2,
+      "name": "RT Art science museum to Merlion",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 1108,
+      "moving_time": 905,
+      "start_date": "2019-04-06T23:13:35Z",
+      "start_date_local": "2019-04-07T07:13:35Z",
+      "distance": 2196.5,
+      "start_index": 7450,
+      "end_index": 8519,
+      "device_watts": false,
+      "segment": {
+        "id": 8267973,
+        "resource_state": 2,
+        "name": "RT Art science museum to Merlion",
+        "activity_type": "Run",
+        "distance": 2196.5,
+        "average_grade": 0.1,
+        "maximum_grade": 12.4,
+        "elevation_high": 40.8,
+        "elevation_low": 5.4,
+        "start_latlng": [
+          1.28635,
+          103.860368
+        ],
+        "end_latlng": [
+          1.286672,
+          103.854538
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3139535285362057000,
+      "resource_state": 2,
+      "name": "RT MBS Lotus pond 400m ",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 136,
+      "moving_time": 91,
+      "start_date": "2019-04-06T23:15:10Z",
+      "start_date_local": "2019-04-07T07:15:10Z",
+      "distance": 396.3,
+      "start_index": 7545,
+      "end_index": 7681,
+      "device_watts": false,
+      "segment": {
+        "id": 35476116,
+        "resource_state": 2,
+        "name": "RT MBS Lotus pond 400m ",
+        "activity_type": "Run",
+        "distance": 396.3,
+        "average_grade": 0,
+        "maximum_grade": 2,
+        "elevation_high": 6.2,
+        "elevation_low": 5.8,
+        "start_latlng": [
+          1.285862,
+          103.859317
+        ],
+        "end_latlng": [
+          1.282798,
+          103.857659
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3139685655758486500,
+      "resource_state": 2,
+      "name": "RT MBS rain oculus 300m sprint",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 117,
+      "moving_time": 95,
+      "start_date": "2019-04-06T23:16:07Z",
+      "start_date_local": "2019-04-07T07:16:07Z",
+      "distance": 308.9,
+      "start_index": 7602,
+      "end_index": 7719,
+      "device_watts": false,
+      "segment": {
+        "id": 35478351,
+        "resource_state": 2,
+        "name": "RT MBS rain oculus 300m sprint",
+        "activity_type": "Run",
+        "distance": 308.9,
+        "average_grade": -0.3,
+        "maximum_grade": 2.3,
+        "elevation_high": 10,
+        "elevation_low": 8.8,
+        "start_latlng": [
+          1.284354,
+          103.858728
+        ],
+        "end_latlng": [
+          1.282072,
+          103.857197
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 71978076023,
+      "resource_state": 2,
+      "name": "RT MBS 400m",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 148,
+      "moving_time": 148,
+      "start_date": "2019-04-06T23:17:06Z",
+      "start_date_local": "2019-04-07T07:17:06Z",
+      "distance": 400.6,
+      "start_index": 7661,
+      "end_index": 7809,
+      "device_watts": false,
+      "segment": {
+        "id": 22366562,
+        "resource_state": 2,
+        "name": "RT MBS 400m",
+        "activity_type": "Run",
+        "distance": 400.6,
+        "average_grade": -0.4,
+        "maximum_grade": 1.7,
+        "elevation_high": -44.4,
+        "elevation_low": -47.4,
+        "start_latlng": [
+          1.283121,
+          103.858002
+        ],
+        "end_latlng": [
+          1.28025,
+          103.855925
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151388020,
+      "resource_state": 2,
+      "name": "RT 450m to NTUC",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 176,
+      "moving_time": 146,
+      "start_date": "2019-04-06T23:19:49Z",
+      "start_date_local": "2019-04-07T07:19:49Z",
+      "distance": 442.6,
+      "start_index": 7824,
+      "end_index": 7996,
+      "device_watts": false,
+      "segment": {
+        "id": 6542750,
+        "resource_state": 2,
+        "name": "RT 450m to NTUC",
+        "activity_type": "Run",
+        "distance": 442.6,
+        "average_grade": 4.7,
+        "maximum_grade": 13.8,
+        "elevation_high": 39.9,
+        "elevation_low": 19.1,
+        "start_latlng": [
+          1.280318,
+          103.855624
+        ],
+        "end_latlng": [
+          1.281817,
+          103.853386
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 2864027754028375600,
+      "resource_state": 2,
+      "name": "Marina Bay Promontory loop",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 177,
+      "moving_time": 153,
+      "start_date": "2019-04-06T23:21:03Z",
+      "start_date_local": "2019-04-07T07:21:03Z",
+      "distance": 400.8,
+      "start_index": 7892,
+      "end_index": 8065,
+      "device_watts": false,
+      "segment": {
+        "id": 29574702,
+        "resource_state": 2,
+        "name": "Marina Bay Promontory loop",
+        "activity_type": "Run",
+        "distance": 400.8,
+        "average_grade": 0.3,
+        "maximum_grade": 5.9,
+        "elevation_high": -0.4,
+        "elevation_low": -3.4,
+        "start_latlng": [
+          1.281088,
+          103.85469
+        ],
+        "end_latlng": [
+          1.281062,
+          103.85419
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151388102,
+      "resource_state": 2,
+      "name": "Fullerton",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 207,
+      "moving_time": 189,
+      "start_date": "2019-04-06T23:29:13Z",
+      "start_date_local": "2019-04-07T07:29:13Z",
+      "distance": 318.868,
+      "start_index": 8356,
+      "end_index": 8556,
+      "device_watts": false,
+      "segment": {
+        "id": 799614,
+        "resource_state": 2,
+        "name": "Fullerton",
+        "activity_type": "Run",
+        "distance": 318.868,
+        "average_grade": 1.3,
+        "maximum_grade": 21.8,
+        "elevation_high": 40.1,
+        "elevation_low": 21.5,
+        "start_latlng": [
+          1.28431784,
+          103.85328796
+        ],
+        "end_latlng": [
+          1.28667782,
+          103.85379602
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3176877072373264400,
+      "resource_state": 2,
+      "name": "Miss Chardonnay (GER) was here 12/23",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 387,
+      "moving_time": 383,
+      "start_date": "2019-04-06T23:30:25Z",
+      "start_date_local": "2019-04-07T07:30:25Z",
+      "distance": 778,
+      "start_index": 8423,
+      "end_index": 8807,
+      "device_watts": false,
+      "segment": {
+        "id": 36067392,
+        "resource_state": 2,
+        "name": "Miss Chardonnay (GER) was here 12/23",
+        "activity_type": "Run",
+        "distance": 778,
+        "average_grade": 0.1,
+        "maximum_grade": 5.1,
+        "elevation_high": 13.6,
+        "elevation_low": 9.8,
+        "start_latlng": [
+          1.285011,
+          103.853927
+        ],
+        "end_latlng": [
+          1.288892,
+          103.857626
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151388120,
+      "resource_state": 2,
+      "name": "Marina foot bridge reverse",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 124,
+      "moving_time": 124,
+      "start_date": "2019-04-06T23:32:33Z",
+      "start_date_local": "2019-04-07T07:32:33Z",
+      "distance": 282,
+      "start_index": 8549,
+      "end_index": 8673,
+      "device_watts": false,
+      "segment": {
+        "id": 9352531,
+        "resource_state": 2,
+        "name": "Marina foot bridge reverse",
+        "activity_type": "Run",
+        "distance": 282,
+        "average_grade": -0.1,
+        "maximum_grade": 10.2,
+        "elevation_high": 59.4,
+        "elevation_low": 54.2,
+        "start_latlng": [
+          1.287092,
+          103.854433
+        ],
+        "end_latlng": [
+          1.288879,
+          103.854765
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151388173,
+      "resource_state": 2,
+      "name": "RT Esplanade 600m warmup",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 238,
+      "moving_time": 238,
+      "start_date": "2019-04-06T23:34:50Z",
+      "start_date_local": "2019-04-07T07:34:50Z",
+      "distance": 586.7,
+      "start_index": 8685,
+      "end_index": 8923,
+      "device_watts": false,
+      "segment": {
+        "id": 7698052,
+        "resource_state": 2,
+        "name": "RT Esplanade 600m warmup",
+        "activity_type": "Run",
+        "distance": 586.7,
+        "average_grade": 1.4,
+        "maximum_grade": 7.2,
+        "elevation_high": 17.5,
+        "elevation_low": 1.5,
+        "start_latlng": [
+          1.289061,
+          103.85485
+        ],
+        "end_latlng": [
+          1.288734,
+          103.860073
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": "Singapore",
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151388152,
+      "resource_state": 2,
+      "name": "RT Floating Platform 200m Sprint",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 77,
+      "moving_time": 77,
+      "start_date": "2019-04-06T23:36:50Z",
+      "start_date_local": "2019-04-07T07:36:50Z",
+      "distance": 163.7,
+      "start_index": 8805,
+      "end_index": 8882,
+      "device_watts": false,
+      "segment": {
+        "id": 6385157,
+        "resource_state": 2,
+        "name": "RT Floating Platform 200m Sprint",
+        "activity_type": "Run",
+        "distance": 163.7,
+        "average_grade": 5.1,
+        "maximum_grade": 7.3,
+        "elevation_high": 13.5,
+        "elevation_low": 5.1,
+        "start_latlng": [
+          1.288937,
+          103.857595
+        ],
+        "end_latlng": [
+          1.288831,
+          103.859058
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1001.9,
+      "elapsed_time": 400,
+      "elevation_difference": 7.6,
+      "moving_time": 340,
+      "split": 1,
+      "average_speed": 2.5,
+      "average_grade_adjusted_speed": 2.84,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.6,
+      "elapsed_time": 435,
+      "elevation_difference": -4.2,
+      "moving_time": 373,
+      "split": 2,
+      "average_speed": 2.3,
+      "average_grade_adjusted_speed": 2.37,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997.6,
+      "elapsed_time": 416,
+      "elevation_difference": -9,
+      "moving_time": 393,
+      "split": 3,
+      "average_speed": 2.4,
+      "average_grade_adjusted_speed": 2.4,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.4,
+      "elapsed_time": 444,
+      "elevation_difference": -3.5,
+      "moving_time": 402,
+      "split": 4,
+      "average_speed": 2.25,
+      "average_grade_adjusted_speed": 2.5,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.4,
+      "elapsed_time": 433,
+      "elevation_difference": 26.1,
+      "moving_time": 404,
+      "split": 5,
+      "average_speed": 2.32,
+      "average_grade_adjusted_speed": 2.55,
+      "pace_zone": 0
+    },
+    {
+      "distance": 997,
+      "elapsed_time": 397,
+      "elevation_difference": -19.5,
+      "moving_time": 372,
+      "split": 6,
+      "average_speed": 2.51,
+      "average_grade_adjusted_speed": 2.48,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.1,
+      "elapsed_time": 449,
+      "elevation_difference": -6.3,
+      "moving_time": 422,
+      "split": 7,
+      "average_speed": 2.23,
+      "average_grade_adjusted_speed": 2.24,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 433,
+      "elevation_difference": 1.7,
+      "moving_time": 433,
+      "split": 8,
+      "average_speed": 2.31,
+      "average_grade_adjusted_speed": 2.48,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000,
+      "elapsed_time": 453,
+      "elevation_difference": -4.1,
+      "moving_time": 427,
+      "split": 9,
+      "average_speed": 2.21,
+      "average_grade_adjusted_speed": 2.21,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.8,
+      "elapsed_time": 431,
+      "elevation_difference": 7.4,
+      "moving_time": 410,
+      "split": 10,
+      "average_speed": 2.32,
+      "average_grade_adjusted_speed": 2.43,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.2,
+      "elapsed_time": 441,
+      "elevation_difference": 0,
+      "moving_time": 441,
+      "split": 11,
+      "average_speed": 2.27,
+      "average_grade_adjusted_speed": 2.28,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.9,
+      "elapsed_time": 459,
+      "elevation_difference": 0.8,
+      "moving_time": 450,
+      "split": 12,
+      "average_speed": 2.18,
+      "average_grade_adjusted_speed": 2.22,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.5,
+      "elapsed_time": 442,
+      "elevation_difference": -1,
+      "moving_time": 442,
+      "split": 13,
+      "average_speed": 2.27,
+      "average_grade_adjusted_speed": 2.28,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.5,
+      "elapsed_time": 480,
+      "elevation_difference": -6.2,
+      "moving_time": 422,
+      "split": 14,
+      "average_speed": 2.08,
+      "average_grade_adjusted_speed": 2.09,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.8,
+      "elapsed_time": 458,
+      "elevation_difference": 0.8,
+      "moving_time": 458,
+      "split": 15,
+      "average_speed": 2.18,
+      "average_grade_adjusted_speed": 2.22,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1006.9,
+      "elapsed_time": 665,
+      "elevation_difference": 1.6,
+      "moving_time": 398,
+      "split": 16,
+      "average_speed": 1.51,
+      "average_grade_adjusted_speed": 1.59,
+      "pace_zone": 0
+    },
+    {
+      "distance": 992,
+      "elapsed_time": 489,
+      "elevation_difference": -0.8,
+      "moving_time": 398,
+      "split": 17,
+      "average_speed": 2.03,
+      "average_grade_adjusted_speed": 2.03,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.1,
+      "elapsed_time": 392,
+      "elevation_difference": 0.7,
+      "moving_time": 286,
+      "split": 18,
+      "average_speed": 2.55,
+      "average_grade_adjusted_speed": 2.61,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 404,
+      "elevation_difference": 10,
+      "moving_time": 374,
+      "split": 19,
+      "average_speed": 2.47,
+      "average_grade_adjusted_speed": 2.55,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001,
+      "elapsed_time": 368,
+      "elevation_difference": 16.1,
+      "moving_time": 268,
+      "split": 20,
+      "average_speed": 2.72,
+      "average_grade_adjusted_speed": 3.36,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.9,
+      "elapsed_time": 467,
+      "elevation_difference": -24.5,
+      "moving_time": 449,
+      "split": 21,
+      "average_speed": 2.14,
+      "average_grade_adjusted_speed": 2.33,
+      "pace_zone": 0
+    },
+    {
+      "distance": 591.6,
+      "elapsed_time": 242,
+      "elevation_difference": -3.1,
+      "moving_time": 182,
+      "split": 22,
+      "average_speed": 2.44,
+      "average_grade_adjusted_speed": 2.49,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1611.5,
+      "elapsed_time": 655,
+      "elevation_difference": 3.6,
+      "moving_time": 549,
+      "split": 1,
+      "average_speed": 2.46,
+      "average_grade_adjusted_speed": 2.69,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.4,
+      "elapsed_time": 689,
+      "elevation_difference": 13.8,
+      "moving_time": 650,
+      "split": 2,
+      "average_speed": 2.33,
+      "average_grade_adjusted_speed": 2.57,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1611.5,
+      "elapsed_time": 697,
+      "elevation_difference": 0.4,
+      "moving_time": 647,
+      "split": 3,
+      "average_speed": 2.31,
+      "average_grade_adjusted_speed": 2.4,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.7,
+      "elapsed_time": 670,
+      "elevation_difference": -21.1,
+      "moving_time": 624,
+      "split": 4,
+      "average_speed": 2.4,
+      "average_grade_adjusted_speed": 2.38,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.7,
+      "elapsed_time": 716,
+      "elevation_difference": -3.9,
+      "moving_time": 689,
+      "split": 5,
+      "average_speed": 2.25,
+      "average_grade_adjusted_speed": 2.36,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.5,
+      "elapsed_time": 715,
+      "elevation_difference": 6.1,
+      "moving_time": 689,
+      "split": 6,
+      "average_speed": 2.25,
+      "average_grade_adjusted_speed": 2.31,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.1,
+      "elapsed_time": 729,
+      "elevation_difference": -1.8,
+      "moving_time": 699,
+      "split": 7,
+      "average_speed": 2.21,
+      "average_grade_adjusted_speed": 2.23,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.4,
+      "elapsed_time": 702,
+      "elevation_difference": -1.4,
+      "moving_time": 702,
+      "split": 8,
+      "average_speed": 2.29,
+      "average_grade_adjusted_speed": 2.32,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.2,
+      "elapsed_time": 768,
+      "elevation_difference": -0.7,
+      "moving_time": 710,
+      "split": 9,
+      "average_speed": 2.1,
+      "average_grade_adjusted_speed": 2.12,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1629.6,
+      "elapsed_time": 983,
+      "elevation_difference": -3.2,
+      "moving_time": 658,
+      "split": 10,
+      "average_speed": 1.66,
+      "average_grade_adjusted_speed": 1.71,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1588.8,
+      "elapsed_time": 688,
+      "elevation_difference": 3.6,
+      "moving_time": 604,
+      "split": 11,
+      "average_speed": 2.31,
+      "average_grade_adjusted_speed": 2.35,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610,
+      "elapsed_time": 638,
+      "elevation_difference": 3.8,
+      "moving_time": 550,
+      "split": 12,
+      "average_speed": 2.52,
+      "average_grade_adjusted_speed": 2.56,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609,
+      "elapsed_time": 667,
+      "elevation_difference": -5.6,
+      "moving_time": 552,
+      "split": 13,
+      "average_speed": 2.41,
+      "average_grade_adjusted_speed": 2.9,
+      "pace_zone": 0
+    },
+    {
+      "distance": 671.1,
+      "elapsed_time": 281,
+      "elevation_difference": -3,
+      "moving_time": 221,
+      "split": 14,
+      "average_speed": 2.39,
+      "average_grade_adjusted_speed": 2.43,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 8364109639,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 9597,
+      "moving_time": 8544,
+      "start_date": "2019-04-06T21:01:26Z",
+      "start_date_local": "2019-04-07T05:01:26Z",
+      "distance": 21593.5,
+      "average_speed": 2.25,
+      "max_speed": 13.9,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 9065,
+      "total_elevation_gain": 312.7,
+      "device_watts": false,
+      "pace_zone": 0
+    }
+  ],
+  "best_efforts": [
+    {
+      "id": 12787488832,
+      "resource_state": 2,
+      "name": "400m",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 102,
+      "moving_time": 102,
+      "start_date": "2019-04-06T23:26:59Z",
+      "start_date_local": "2019-04-07T07:26:59Z",
+      "distance": 400,
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "start_index": 8237,
+      "end_index": 8336
+    },
+    {
+      "id": 12787488900,
+      "resource_state": 2,
+      "name": "1/2 mile",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 262,
+      "moving_time": 262,
+      "start_date": "2019-04-06T23:26:59Z",
+      "start_date_local": "2019-04-07T07:26:59Z",
+      "distance": 805,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 8237,
+      "end_index": 8478
+    },
+    {
+      "id": 12787488965,
+      "resource_state": 2,
+      "name": "1K",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 339,
+      "moving_time": 339,
+      "start_date": "2019-04-06T23:12:57Z",
+      "start_date_local": "2019-04-07T07:12:57Z",
+      "distance": 1000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 7432,
+      "end_index": 7751
+    },
+    {
+      "id": 12787489037,
+      "resource_state": 2,
+      "name": "1 mile",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 577,
+      "moving_time": 577,
+      "start_date": "2019-04-06T23:12:57Z",
+      "start_date_local": "2019-04-07T07:12:57Z",
+      "distance": 1609,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 7432,
+      "end_index": 7985
+    },
+    {
+      "id": 12787489091,
+      "resource_state": 2,
+      "name": "2 mile",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 1218,
+      "moving_time": 1218,
+      "start_date": "2019-04-06T23:09:29Z",
+      "start_date_local": "2019-04-07T07:09:29Z",
+      "distance": 3219,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 7247,
+      "end_index": 8385
+    },
+    {
+      "id": 12787489126,
+      "resource_state": 2,
+      "name": "5K",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 2024,
+      "moving_time": 2024,
+      "start_date": "2019-04-06T23:06:46Z",
+      "start_date_local": "2019-04-07T07:06:46Z",
+      "distance": 5000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 7089,
+      "end_index": 9011
+    },
+    {
+      "id": 12787489134,
+      "resource_state": 2,
+      "name": "10K",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 4291,
+      "moving_time": 4291,
+      "start_date": "2019-04-06T21:01:26Z",
+      "start_date_local": "2019-04-07T05:01:26Z",
+      "distance": 10000,
+      "pr_rank": 3,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 3
+        }
+      ],
+      "start_index": 0,
+      "end_index": 4188
+    },
+    {
+      "id": 12787489135,
+      "resource_state": 2,
+      "name": "15K",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 6571,
+      "moving_time": 6571,
+      "start_date": "2019-04-06T21:01:26Z",
+      "start_date_local": "2019-04-07T05:01:26Z",
+      "distance": 15000,
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "start_index": 0,
+      "end_index": 6436
+    },
+    {
+      "id": 12787489137,
+      "resource_state": 2,
+      "name": "10 mile",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 7213,
+      "moving_time": 7213,
+      "start_date": "2019-04-06T21:30:17Z",
+      "start_date_local": "2019-04-07T05:30:17Z",
+      "distance": 16090,
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "start_index": 1664,
+      "end_index": 8428
+    },
+    {
+      "id": 12787489139,
+      "resource_state": 2,
+      "name": "20K",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 8889,
+      "moving_time": 8889,
+      "start_date": "2019-04-06T21:01:26Z",
+      "start_date_local": "2019-04-07T05:01:26Z",
+      "distance": 20000,
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "start_index": 0,
+      "end_index": 8373
+    },
+    {
+      "id": 12787489141,
+      "resource_state": 2,
+      "name": "Half-Marathon",
+      "activity": {
+        "id": 2552753144,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 9392,
+      "moving_time": 9392,
+      "start_date": "2019-04-06T21:01:26Z",
+      "start_date_local": "2019-04-07T05:01:26Z",
+      "distance": 21097,
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "start_index": 0,
+      "end_index": 8873
+    }
+  ],
+  "gear": {
+    "id": "g4710897",
+    "primary": false,
+    "name": "ASICS GT-2000 6",
+    "nickname": "",
+    "resource_state": 2,
+    "retired": true,
+    "distance": 213998,
+    "converted_distance": 214
+  },
+  "photos": {
+    "primary": {
+      "unique_id": "59cf196a-84b3-4bf4-897b-5c591d52ec74",
+      "urls": {
+        "100": "https://dgtzuqphqg23d.cloudfront.net/9XSUPVy6IKiVncxk8lJXr48fFa8Dw2wMLb3DR0axFN0-128x128.jpg",
+        "600": "https://dgtzuqphqg23d.cloudfront.net/9XSUPVy6IKiVncxk8lJXr48fFa8Dw2wMLb3DR0axFN0-768x768.jpg"
+      },
+      "source": 1,
+      "media_type": 1
+    },
+    "use_primary_photo": false,
+    "count": 5
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "00e7dda11d50b3ff000d3746b7d6fcfe4028576b",
+  "similar_activities": {
+    "effort_count": 1,
+    "average_speed": 2.527329119850187,
+    "min_average_speed": 2.527329119850187,
+    "mid_average_speed": 2.527329119850187,
+    "max_average_speed": 2.527329119850187,
+    "pr_rank": null,
+    "frequency_milestone": null,
+    "trend": {
+      "speeds": [
+        2.527329119850187
+      ],
+      "current_activity_index": 0,
+      "min_speed": 2.527329119850187,
+      "mid_speed": 2.527329119850187,
+      "max_speed": 2.527329119850187,
+      "direction": 0
+    },
+    "resource_state": 2
+  },
+  "available_zones": []
+},{
+  "resource_state": 3,
+  "athlete": {
+    "id": 18347400,
+    "resource_state": 1
+  },
   "name": "West Coast Hwy + 2x Faber Loop",
   "distance": 47137.5,
   "moving_time": 6758,
@@ -46559,6 +49066,2798 @@ const activities = [{
   ],
   "hide_from_home": false,
   "embed_token": "d647ad1614aa024419d9474d1abaeae5ad646ae2",
+  "available_zones": []
+},{
+  "resource_state": 3,
+  "athlete": {
+    "id": 18347400,
+    "resource_state": 1
+  },
+  "name": "Herbalife Marina Run 2019",
+  "distance": 21282.9,
+  "moving_time": 9056,
+  "elapsed_time": 9616,
+  "total_elevation_gain": 186.6,
+  "type": "Run",
+  "sport_type": "Run",
+  "workout_type": 1,
+  "id": 2552749935,
+  "start_date": "2019-02-23T10:05:55Z",
+  "start_date_local": "2019-02-23T18:05:55Z",
+  "timezone": "(GMT+08:00) Asia/Singapore",
+  "utc_offset": 28800,
+  "location_city": null,
+  "location_state": null,
+  "location_country": null,
+  "achievement_count": 10,
+  "kudos_count": 0,
+  "comment_count": 0,
+  "athlete_count": 18,
+  "photo_count": 0,
+  "map": {
+    "id": "a2552749935",
+    "polyline": "av{Fgm}xRH@^IlA[nJaCbCq@bCw@pFyBvFmCjBcApBwAdCyAvEgDAGa@y@Ug@EAIoAFArBn@jAFlByAtAsAxAeBvB{@DBvCrEtAjBfAbBb@z@k@~AkA`AwAv@a@jAvBm@fBa@FCdAwACEqA}@aBnAADp@hAdBqABK?g@i@qBJe@?EiAaBkAsBcA{As@mBAw@GBeAx@OH}B`@CGqAiAEDiAfBGFgBRCElByArAmA|@i@Hw@n@oBtAeBCIeAsBqAeBiAqAaBoAKCkBi@iCSsBPwBb@_Br@o@b@iAd@ECyAiAcCkE_AyAy@eBeCgEaAeBeAcB{DkHgAeBuBaEcAcBgBcA_Ca@uBCCA[cBE}BNiBRwBXuB@aCU}Mo@iFM}BSkBK}BKsF]gBo@wBQgBA}BSsBaBcFDiC]qBwAiFYkBm@kB{@oFcAqBi@cCY_FWaB_@gAC}@QsAAi@a@kBo@wBy@mB_@wB[mCc@mBiAeBe@mBu@qB{@gBe@yBIuBu@kB_AaBi@gB[sBWsBi@uBq@iFe@oBa@oBy@uBa@eBGiC?uBMuBm@mBc@_B?_CAMUgB]qBq@cBBsBSiBe@uBQqBCA}AFEAcA_BWgBEKeAqAEAa@Hl@j@j@t@DJh@jB^nB@zAKd@aA|@w@hAhBfBrAdB~AhAl@@\\EN@DEVz@\\fBNhBDfBj@hB`@vBEjE@VJdB`@vBhAlDh@rBV~ATdBRlAl@pCT`BVzA^tAh@xAl@`ALLd@bAGbBn@|DbAvD`@j@h@|AZrARbCr@`B\\bBv@dC~@fB`@nADzCFvAd@~AfAjENvAj@`Bz@|Af@~Df@|A^bBXlBXpAb@zATpATrAFjBnAbEJ|AX~AU~ALbChA|DNbCX~BBbBTvDPvAx@|BFf@@f@M~@H~BNvBEzASvAA|AKvBUnC@~CDdBBXBDz@d@~ALZ?jDtADDdA~Az@nBnAjBlApBxBxEfApBpAnB~@dB~B|DpBvCv@zAp@hA~@fAF@hBQfBwApBm@`COjCHbCv@pBpA~@lAfBtC^`@FhA_B|Ay@bC_F`FzBu@~AcBDBL|B}@~BmBbBeAx@{@Ju@eAiA@CfAdAp@?D]zAIF}AlAsBdAmBpAyBpAoB|@}BnA_C`AqFpBcDfAsCz@oHhB",
+    "resource_state": 3,
+    "summary_polyline": "av{Fgm}xRH@^IlA[nJaCbCq@bCw@pFyBvFmCjBcApBwAdCyAvEgDAGa@y@Ug@EAIoAFArBn@jAFlByAtAsAxAeBvB{@DBvCrEtAjBfAbBb@z@k@~AkA`AwAv@a@jAvBm@fBa@FCdAwACEqA}@aBnAADp@hAdBqABK?g@i@qBJe@?EiAaBkAsBcA{As@mBAw@GBeAx@OH}B`@CGqAiAEDiAfBGFgBRCElByArAmA|@i@Hw@n@oBtAeBCIeAsBqAeBiAqAaBoAKCkBi@iCSsBPwBb@_Br@o@b@iAd@ECyAiAcCkE_AyAy@eBeCgEaAeBeAcB{DkHgAeBuBaEcAcBgBcA_Ca@uBCCA[cBE}BNiBRwBXuB@aCU}Mo@iFM}BSkBK}BKsF]gBo@wBQgBA}BSsBaBcFDiC]qBwAiFYkBm@kB{@oFcAqBi@cCY_FWaB_@gAC}@QsAAi@a@kBo@wBy@mB_@wB[mCc@mBiAeBe@mBu@qB{@gBe@yBIuBu@kB_AaBi@gB[sBWsBi@uBq@iFe@oBa@oBy@uBa@eBGiC?uBMuBm@mBc@_B?_CAMUgB]qBq@cBBsBSiBe@uBQqBCA}AFEAcA_BWgBEKeAqAEAa@Hl@j@j@t@FNf@fB^nB@zAKd@aA|@w@hAhBfBrAdB~AhAl@@\\EN@DEVz@\\fBNhBDfBj@hB`@vBEjE@VJdB`@vBhAlDh@rBV~ATdBRlAl@pCT`BVzA^tAh@xAl@`ALLd@bAGbBn@|DbAvD`@j@h@|AZrARbCr@`B\\bBv@dC~@fB`@nADzCFvAd@~AfAjENvAj@`Bz@|Af@~Df@|A^bBXlBXpAb@zATpATrAFjBnAbEJ|AX~AU~ALbChA|DNbCX~BBbBTvDPvAx@|BFf@@f@M~@H~BNvBEzASvAA|AKvBUnC@~CDdBBXBDz@d@~ALZ?jDtADDdA~Az@nBnAjBlApBxBxEfApBpAnB~@dB~B|DpBvCv@zAp@hA~@fAF@hBQfBwApBm@`COjCHbCv@pBpA~@lAfBtC^`@FhA_B|Ay@bC_F`FzBu@~AcBDBL|B}@~BmBbBeAx@{@Ju@eAiA@CfAdAp@?D]zAIF}AlAsBdAmBpAyBpAoB|@}BnA_C`AqFpBcDfAsCz@oHhB"
+  },
+  "trainer": false,
+  "commute": false,
+  "manual": false,
+  "private": false,
+  "visibility": "everyone",
+  "flagged": false,
+  "gear_id": "g4710897",
+  "start_latlng": [
+    1.29,
+    103.87
+  ],
+  "end_latlng": [
+    1.29,
+    103.87
+  ],
+  "average_speed": 2.213,
+  "max_speed": 11.8,
+  "has_heartrate": false,
+  "heartrate_opt_out": false,
+  "display_hide_heartrate_option": false,
+  "elev_high": 21.6,
+  "elev_low": -3.9,
+  "upload_id": 2709464271,
+  "upload_id_str": "2709464271",
+  "external_id": "2019-02-23T10_05_55Z_PT2H40M15S_Running.tcx",
+  "from_accepted_tag": false,
+  "pr_count": 5,
+  "total_photo_count": 0,
+  "has_kudoed": false,
+  "description": "First 21km race!",
+  "calories": 1720,
+  "perceived_exertion": null,
+  "prefer_perceived_exertion": null,
+  "segment_efforts": [
+    {
+      "id": 64151322695,
+      "resource_state": 2,
+      "name": "RT 400m sprint back to city",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 192,
+      "moving_time": 186,
+      "start_date": "2019-02-23T10:05:55Z",
+      "start_date_local": "2019-02-23T18:05:55Z",
+      "distance": 394.4,
+      "start_index": 0,
+      "end_index": 159,
+      "device_watts": false,
+      "segment": {
+        "id": 6331787,
+        "resource_state": 2,
+        "name": "RT 400m sprint back to city",
+        "activity_type": "Run",
+        "distance": 394.4,
+        "average_grade": 6,
+        "maximum_grade": 16.2,
+        "elevation_high": 30,
+        "elevation_low": 6.4,
+        "start_latlng": [
+          1.294007,
+          103.866483
+        ],
+        "end_latlng": [
+          1.290684,
+          103.867686
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151322774,
+      "resource_state": 2,
+      "name": "RT Bay EAST Garden Mile",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 714,
+      "moving_time": 708,
+      "start_date": "2019-02-23T10:05:55Z",
+      "start_date_local": "2019-02-23T18:05:55Z",
+      "distance": 1566,
+      "start_index": 0,
+      "end_index": 680,
+      "device_watts": false,
+      "segment": {
+        "id": 7703921,
+        "resource_state": 2,
+        "name": "RT Bay EAST Garden Mile",
+        "activity_type": "Run",
+        "distance": 1566,
+        "average_grade": 0.5,
+        "maximum_grade": 13.1,
+        "elevation_high": 30.4,
+        "elevation_low": 7,
+        "start_latlng": [
+          1.294146,
+          103.86654
+        ],
+        "end_latlng": [
+          1.282426,
+          103.873614
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151322711,
+      "resource_state": 2,
+      "name": "RT 800 metre sprint",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 344,
+      "moving_time": 344,
+      "start_date": "2019-02-23T10:06:10Z",
+      "start_date_local": "2019-02-23T18:06:10Z",
+      "distance": 806.8,
+      "start_index": 6,
+      "end_index": 325,
+      "device_watts": false,
+      "segment": {
+        "id": 6331819,
+        "resource_state": 2,
+        "name": "RT 800 metre sprint",
+        "activity_type": "Run",
+        "distance": 806.8,
+        "average_grade": 1.5,
+        "maximum_grade": 16.2,
+        "elevation_high": 30.8,
+        "elevation_low": 8.2,
+        "start_latlng": [
+          1.293828,
+          103.866536
+        ],
+        "end_latlng": [
+          1.287259,
+          103.869514
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151322729,
+      "resource_state": 2,
+      "name": "Marina Straights till turn",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 405,
+      "moving_time": 405,
+      "start_date": "2019-02-23T10:07:16Z",
+      "start_date_local": "2019-02-23T18:07:16Z",
+      "distance": 1055.8,
+      "start_index": 48,
+      "end_index": 452,
+      "device_watts": false,
+      "segment": {
+        "id": 5219823,
+        "resource_state": 2,
+        "name": "Marina Straights till turn",
+        "activity_type": "Run",
+        "distance": 1055.8,
+        "average_grade": -0.1,
+        "maximum_grade": 19.8,
+        "elevation_high": 30.6,
+        "elevation_low": 16.5,
+        "start_latlng": [
+          1.29309,
+          103.866818
+        ],
+        "end_latlng": [
+          1.28487,
+          103.871391
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3143284820017651700,
+      "resource_state": 2,
+      "name": "THE WFC BRIDGE",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 202,
+      "moving_time": 171,
+      "start_date": "2019-02-23T10:17:41Z",
+      "start_date_local": "2019-02-23T18:17:41Z",
+      "distance": 466.8,
+      "start_index": 672,
+      "end_index": 843,
+      "device_watts": false,
+      "segment": {
+        "id": 35553119,
+        "resource_state": 2,
+        "name": "THE WFC BRIDGE",
+        "activity_type": "Run",
+        "distance": 466.8,
+        "average_grade": 0.1,
+        "maximum_grade": 5.9,
+        "elevation_high": 12,
+        "elevation_low": 8.4,
+        "start_latlng": [
+          1.282562,
+          103.873482
+        ],
+        "end_latlng": [
+          1.280905,
+          103.870781
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 3190624241342233600,
+      "resource_state": 2,
+      "name": "RT Grassy reversed Clockwise",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 187,
+      "moving_time": 174,
+      "start_date": "2019-02-23T10:20:45Z",
+      "start_date_local": "2019-02-23T18:20:45Z",
+      "distance": 293.5,
+      "start_index": 824,
+      "end_index": 1013,
+      "device_watts": false,
+      "segment": {
+        "id": 36268838,
+        "resource_state": 2,
+        "name": "RT Grassy reversed Clockwise",
+        "activity_type": "Run",
+        "distance": 293.5,
+        "average_grade": 3.3,
+        "maximum_grade": 13.2,
+        "elevation_high": 12.4,
+        "elevation_low": 0.8,
+        "start_latlng": [
+          1.280315,
+          103.870776
+        ],
+        "end_latlng": [
+          1.280199,
+          103.870754
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": null,
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151322832,
+      "resource_state": 2,
+      "name": "RT uphill interval",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 154,
+      "moving_time": 154,
+      "start_date": "2019-02-23T10:22:00Z",
+      "start_date_local": "2019-02-23T18:22:00Z",
+      "distance": 355.2,
+      "start_index": 901,
+      "end_index": 1055,
+      "device_watts": false,
+      "segment": {
+        "id": 20741059,
+        "resource_state": 2,
+        "name": "RT uphill interval",
+        "activity_type": "Run",
+        "distance": 355.2,
+        "average_grade": 3.1,
+        "maximum_grade": 8.3,
+        "elevation_high": 44.8,
+        "elevation_low": 33.4,
+        "start_latlng": [
+          1.281648,
+          103.869766
+        ],
+        "end_latlng": [
+          1.281105,
+          103.870506
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151322858,
+      "resource_state": 2,
+      "name": "Marina Mountain ",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 181,
+      "moving_time": 165,
+      "start_date": "2019-02-23T10:22:45Z",
+      "start_date_local": "2019-02-23T18:22:45Z",
+      "distance": 429.53,
+      "start_index": 946,
+      "end_index": 1125,
+      "device_watts": false,
+      "segment": {
+        "id": 3310407,
+        "resource_state": 2,
+        "name": "Marina Mountain ",
+        "activity_type": "Run",
+        "distance": 429.53,
+        "average_grade": -1.3,
+        "maximum_grade": 15.2,
+        "elevation_high": 19.2,
+        "elevation_low": 8.3,
+        "start_latlng": [
+          1.2808265,
+          103.8702208
+        ],
+        "end_latlng": [
+          1.2803581,
+          103.8710984
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151322881,
+      "resource_state": 2,
+      "name": "Marina Barrage ",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 168,
+      "moving_time": 155,
+      "start_date": "2019-02-23T10:26:13Z",
+      "start_date_local": "2019-02-23T18:26:13Z",
+      "distance": 299.06,
+      "start_index": 1127,
+      "end_index": 1287,
+      "device_watts": false,
+      "segment": {
+        "id": 2151051,
+        "resource_state": 2,
+        "name": "Marina Barrage ",
+        "activity_type": "Run",
+        "distance": 299.06,
+        "average_grade": 4.2,
+        "maximum_grade": 12.9,
+        "elevation_high": 12.4,
+        "elevation_low": 0,
+        "start_latlng": [
+          1.2805801,
+          103.8714723
+        ],
+        "end_latlng": [
+          1.2822285,
+          103.8735971
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151323242,
+      "resource_state": 2,
+      "name": "Gardie's ECP shortcut",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 1138,
+      "moving_time": 1087,
+      "start_date": "2019-02-23T10:28:53Z",
+      "start_date_local": "2019-02-23T18:28:53Z",
+      "distance": 2335.4,
+      "start_index": 1279,
+      "end_index": 2416,
+      "device_watts": false,
+      "segment": {
+        "id": 6564881,
+        "resource_state": 2,
+        "name": "Gardie's ECP shortcut",
+        "activity_type": "Run",
+        "distance": 2335.4,
+        "average_grade": -0.1,
+        "maximum_grade": 6.5,
+        "elevation_high": 529.8,
+        "elevation_low": 523.2,
+        "start_latlng": [
+          1.282162,
+          103.873989
+        ],
+        "end_latlng": [
+          1.294433,
+          103.885116
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151322896,
+      "resource_state": 2,
+      "name": "The Fairway",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 301,
+      "moving_time": 268,
+      "start_date": "2019-02-23T10:33:30Z",
+      "start_date_local": "2019-02-23T18:33:30Z",
+      "distance": 721.8,
+      "start_index": 1556,
+      "end_index": 1856,
+      "device_watts": false,
+      "segment": {
+        "id": 4549401,
+        "resource_state": 2,
+        "name": "The Fairway",
+        "activity_type": "Run",
+        "distance": 721.8,
+        "average_grade": 0.8,
+        "maximum_grade": 13.2,
+        "elevation_high": 10.5,
+        "elevation_low": 1.7,
+        "start_latlng": [
+          1.282322,
+          103.875674
+        ],
+        "end_latlng": [
+          1.287712,
+          103.876866
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151322916,
+      "resource_state": 2,
+      "name": "Road To Nowhere",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 320,
+      "moving_time": 320,
+      "start_date": "2019-02-23T10:40:47Z",
+      "start_date_local": "2019-02-23T18:40:47Z",
+      "distance": 688.5,
+      "start_index": 1992,
+      "end_index": 2312,
+      "device_watts": false,
+      "segment": {
+        "id": 3993573,
+        "resource_state": 2,
+        "name": "Road To Nowhere",
+        "activity_type": "Run",
+        "distance": 688.5,
+        "average_grade": 0.1,
+        "maximum_grade": 2.2,
+        "elevation_high": 9.8,
+        "elevation_low": 7.5,
+        "start_latlng": [
+          1.289152,
+          103.879163
+        ],
+        "end_latlng": [
+          1.292601,
+          103.884527
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151323399,
+      "resource_state": 2,
+      "name": "ECP Underpass to Underpass",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 318,
+      "moving_time": 318,
+      "start_date": "2019-02-23T10:50:18Z",
+      "start_date_local": "2019-02-23T18:50:18Z",
+      "distance": 717.927,
+      "start_index": 2561,
+      "end_index": 2878,
+      "device_watts": false,
+      "segment": {
+        "id": 2406262,
+        "resource_state": 2,
+        "name": "ECP Underpass to Underpass",
+        "activity_type": "Run",
+        "distance": 717.927,
+        "average_grade": 0,
+        "maximum_grade": 0,
+        "elevation_high": 44.6,
+        "elevation_low": 44.6,
+        "start_latlng": [
+          1.2946094,
+          103.8880445
+        ],
+        "end_latlng": [
+          1.2950375,
+          103.8943898
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151323435,
+      "resource_state": 2,
+      "name": "East Coast parkrun out",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 1175,
+      "moving_time": 1071,
+      "start_date": "2019-02-23T10:51:09Z",
+      "start_date_local": "2019-02-23T18:51:09Z",
+      "distance": 2652.4,
+      "start_index": 2611,
+      "end_index": 3795,
+      "device_watts": false,
+      "segment": {
+        "id": 8682690,
+        "resource_state": 2,
+        "name": "East Coast parkrun out",
+        "activity_type": "Run",
+        "distance": 2652.4,
+        "average_grade": -0.4,
+        "maximum_grade": 20.5,
+        "elevation_high": 19.2,
+        "elevation_low": 0,
+        "start_latlng": [
+          1.294458,
+          103.889067
+        ],
+        "end_latlng": [
+          1.299902,
+          103.912113
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 71873113043,
+      "resource_state": 2,
+      "name": "ECParkrun First Mile",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 703,
+      "moving_time": 703,
+      "start_date": "2019-02-23T10:51:38Z",
+      "start_date_local": "2019-02-23T18:51:38Z",
+      "distance": 1614.1,
+      "start_index": 2640,
+      "end_index": 3342,
+      "device_watts": false,
+      "segment": {
+        "id": 22356411,
+        "resource_state": 2,
+        "name": "ECParkrun First Mile",
+        "activity_type": "Run",
+        "distance": 1614.1,
+        "average_grade": 0.3,
+        "maximum_grade": 6.2,
+        "elevation_high": 16.8,
+        "elevation_low": 6.8,
+        "start_latlng": [
+          1.294432,
+          103.889643
+        ],
+        "end_latlng": [
+          1.297268,
+          103.903388
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 2964228983501102600,
+      "resource_state": 2,
+      "name": "Meyer to Amber Road Underpass",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 361,
+      "moving_time": 361,
+      "start_date": "2019-02-23T10:55:50Z",
+      "start_date_local": "2019-02-23T18:55:50Z",
+      "distance": 813,
+      "start_index": 2892,
+      "end_index": 3252,
+      "device_watts": false,
+      "segment": {
+        "id": 31840270,
+        "resource_state": 2,
+        "name": "Meyer to Amber Road Underpass",
+        "activity_type": "Run",
+        "distance": 813,
+        "average_grade": 0,
+        "maximum_grade": 10,
+        "elevation_high": 16,
+        "elevation_low": 15,
+        "start_latlng": [
+          1.295059,
+          103.894696
+        ],
+        "end_latlng": [
+          1.296735,
+          103.901717
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 1,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 1
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151323534,
+      "resource_state": 2,
+      "name": "RT ECP cruiser",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 1549,
+      "moving_time": 1445,
+      "start_date": "2019-02-23T10:58:52Z",
+      "start_date_local": "2019-02-23T18:58:52Z",
+      "distance": 3502.7,
+      "start_index": 3073,
+      "end_index": 4629,
+      "device_watts": false,
+      "segment": {
+        "id": 15459261,
+        "resource_state": 2,
+        "name": "RT ECP cruiser",
+        "activity_type": "Run",
+        "distance": 3502.7,
+        "average_grade": -0.1,
+        "maximum_grade": 2.6,
+        "elevation_high": -274,
+        "elevation_low": -278.2,
+        "start_latlng": [
+          1.29565,
+          103.89821
+        ],
+        "end_latlng": [
+          1.304444,
+          103.9279
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151323482,
+      "resource_state": 2,
+      "name": "Brussell Sprouts to Scruffy's ",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 853,
+      "moving_time": 749,
+      "start_date": "2019-02-23T10:59:42Z",
+      "start_date_local": "2019-02-23T18:59:42Z",
+      "distance": 1937.4,
+      "start_index": 3123,
+      "end_index": 3985,
+      "device_watts": false,
+      "segment": {
+        "id": 6194104,
+        "resource_state": 2,
+        "name": "Brussell Sprouts to Scruffy's ",
+        "activity_type": "Run",
+        "distance": 1937.4,
+        "average_grade": -0.1,
+        "maximum_grade": 20.1,
+        "elevation_high": 17.8,
+        "elevation_low": 0,
+        "start_latlng": [
+          1.295984,
+          103.899211
+        ],
+        "end_latlng": [
+          1.301185,
+          103.915701
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151323451,
+      "resource_state": 2,
+      "name": "ECP drag",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 437,
+      "moving_time": 333,
+      "start_date": "2019-02-23T11:03:45Z",
+      "start_date_local": "2019-02-23T19:03:45Z",
+      "distance": 1030.2,
+      "start_index": 3366,
+      "end_index": 3813,
+      "device_watts": false,
+      "segment": {
+        "id": 16882702,
+        "resource_state": 2,
+        "name": "ECP drag",
+        "activity_type": "Run",
+        "distance": 1030.2,
+        "average_grade": 0.4,
+        "maximum_grade": 46.6,
+        "elevation_high": 26.8,
+        "elevation_low": 0,
+        "start_latlng": [
+          1.297718,
+          103.903826
+        ],
+        "end_latlng": [
+          1.300065,
+          103.912455
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151323465,
+      "resource_state": 2,
+      "name": "Still Rd S Climb",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 178,
+      "moving_time": 178,
+      "start_date": "2019-02-23T11:09:30Z",
+      "start_date_local": "2019-02-23T19:09:30Z",
+      "distance": 407,
+      "start_index": 3721,
+      "end_index": 3899,
+      "device_watts": false,
+      "segment": {
+        "id": 1136663,
+        "resource_state": 2,
+        "name": "Still Rd S Climb",
+        "activity_type": "Run",
+        "distance": 407,
+        "average_grade": -1.1,
+        "maximum_grade": 19.8,
+        "elevation_high": 12.7,
+        "elevation_low": 0.6,
+        "start_latlng": [
+          1.299598,
+          103.9105827
+        ],
+        "end_latlng": [
+          1.3009461,
+          103.9139174
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151323551,
+      "resource_state": 2,
+      "name": "Early 1km",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 483,
+      "moving_time": 483,
+      "start_date": "2019-02-23T11:17:06Z",
+      "start_date_local": "2019-02-23T19:17:06Z",
+      "distance": 1055.1,
+      "start_index": 4175,
+      "end_index": 4657,
+      "device_watts": false,
+      "segment": {
+        "id": 5983507,
+        "resource_state": 2,
+        "name": "Early 1km",
+        "activity_type": "Run",
+        "distance": 1055.1,
+        "average_grade": -0.4,
+        "maximum_grade": 19.3,
+        "elevation_high": 19.2,
+        "elevation_low": 0,
+        "start_latlng": [
+          1.302496,
+          103.919286
+        ],
+        "end_latlng": [
+          1.304601,
+          103.928421
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151323608,
+      "resource_state": 2,
+      "name": "4th 800m interval",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 374,
+      "moving_time": 374,
+      "start_date": "2019-02-23T11:34:50Z",
+      "start_date_local": "2019-02-23T19:34:50Z",
+      "distance": 749.9,
+      "start_index": 5228,
+      "end_index": 5597,
+      "device_watts": false,
+      "segment": {
+        "id": 6507239,
+        "resource_state": 2,
+        "name": "4th 800m interval",
+        "activity_type": "Run",
+        "distance": 749.9,
+        "average_grade": -0.1,
+        "maximum_grade": 14.9,
+        "elevation_high": 16.8,
+        "elevation_low": 0,
+        "start_latlng": [
+          1.303851,
+          103.925319
+        ],
+        "end_latlng": [
+          1.302407,
+          103.918832
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151323625,
+      "resource_state": 2,
+      "name": "RT 1km towards Carpark C2",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 562,
+      "moving_time": 547,
+      "start_date": "2019-02-23T11:40:18Z",
+      "start_date_local": "2019-02-23T19:40:18Z",
+      "distance": 1027.3,
+      "start_index": 5556,
+      "end_index": 6102,
+      "device_watts": false,
+      "segment": {
+        "id": 6593505,
+        "resource_state": 2,
+        "name": "RT 1km towards Carpark C2",
+        "activity_type": "Run",
+        "distance": 1027.3,
+        "average_grade": -1.3,
+        "maximum_grade": 9.5,
+        "elevation_high": 17.3,
+        "elevation_low": 0,
+        "start_latlng": [
+          1.302535,
+          103.9195
+        ],
+        "end_latlng": [
+          1.299458,
+          103.910982
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151323762,
+      "resource_state": 2,
+      "name": "East Coast Park - West 4km",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 1978,
+      "moving_time": 1900,
+      "start_date": "2019-02-23T11:40:53Z",
+      "start_date_local": "2019-02-23T19:40:53Z",
+      "distance": 3862.44,
+      "start_index": 5589,
+      "end_index": 7553,
+      "device_watts": false,
+      "segment": {
+        "id": 2976131,
+        "resource_state": 2,
+        "name": "East Coast Park - West 4km",
+        "activity_type": "Run",
+        "distance": 3862.44,
+        "average_grade": -0.3,
+        "maximum_grade": 20.7,
+        "elevation_high": 19.5,
+        "elevation_low": 0,
+        "start_latlng": [
+          1.302584,
+          103.918929
+        ],
+        "end_latlng": [
+          1.294706,
+          103.885888
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151323644,
+      "resource_state": 2,
+      "name": "Siglap Park Connector/Parkway Jetty",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 910,
+      "moving_time": 895,
+      "start_date": "2019-02-23T11:41:11Z",
+      "start_date_local": "2019-02-23T19:41:11Z",
+      "distance": 1712.7,
+      "start_index": 5603,
+      "end_index": 6500,
+      "device_watts": false,
+      "segment": {
+        "id": 6403066,
+        "resource_state": 2,
+        "name": "Siglap Park Connector/Parkway Jetty",
+        "activity_type": "Run",
+        "distance": 1712.7,
+        "average_grade": -0.2,
+        "maximum_grade": 12.9,
+        "elevation_high": 13.2,
+        "elevation_low": 0,
+        "start_latlng": [
+          1.302486,
+          103.918705
+        ],
+        "end_latlng": [
+          1.297523,
+          103.904441
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 2788817028591125500,
+      "resource_state": 2,
+      "name": "Run down to the get down - 1km edition",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 477,
+      "moving_time": 473,
+      "start_date": "2019-02-23T11:48:09Z",
+      "start_date_local": "2019-02-23T19:48:09Z",
+      "distance": 951.3,
+      "start_index": 6011,
+      "end_index": 6485,
+      "device_watts": false,
+      "segment": {
+        "id": 27108665,
+        "resource_state": 2,
+        "name": "Run down to the get down - 1km edition",
+        "activity_type": "Run",
+        "distance": 951.3,
+        "average_grade": 0.1,
+        "maximum_grade": 2.5,
+        "elevation_high": 13.8,
+        "elevation_low": 12.8,
+        "start_latlng": [
+          1.30018,
+          103.912424
+        ],
+        "end_latlng": [
+          1.297674,
+          103.904652
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151323701,
+      "resource_state": 2,
+      "name": "East Coast parkrun back",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 1178,
+      "moving_time": 1153,
+      "start_date": "2019-02-23T11:48:36Z",
+      "start_date_local": "2019-02-23T19:48:36Z",
+      "distance": 2254.6,
+      "start_index": 6038,
+      "end_index": 7213,
+      "device_watts": false,
+      "segment": {
+        "id": 8682694,
+        "resource_state": 2,
+        "name": "East Coast parkrun back",
+        "activity_type": "Run",
+        "distance": 2254.6,
+        "average_grade": 0.7,
+        "maximum_grade": 21,
+        "elevation_high": 18.5,
+        "elevation_low": 0,
+        "start_latlng": [
+          1.299917,
+          103.912028
+        ],
+        "end_latlng": [
+          1.294778,
+          103.892595
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151323681,
+      "resource_state": 2,
+      "name": "RT Final Km to Carpark B1",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 526,
+      "moving_time": 501,
+      "start_date": "2019-02-23T11:58:35Z",
+      "start_date_local": "2019-02-23T19:58:35Z",
+      "distance": 1020.4,
+      "start_index": 6634,
+      "end_index": 7160,
+      "device_watts": false,
+      "segment": {
+        "id": 6593187,
+        "resource_state": 2,
+        "name": "RT Final Km to Carpark B1",
+        "activity_type": "Run",
+        "distance": 1020.4,
+        "average_grade": 1.3,
+        "maximum_grade": 11.9,
+        "elevation_high": 14.1,
+        "elevation_low": 0,
+        "start_latlng": [
+          1.296873,
+          103.902261
+        ],
+        "end_latlng": [
+          1.294919,
+          103.893373
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151323781,
+      "resource_state": 2,
+      "name": "End of East Coast Park Wailes Burner",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 850,
+      "moving_time": 791,
+      "start_date": "2019-02-23T11:59:37Z",
+      "start_date_local": "2019-02-23T19:59:37Z",
+      "distance": 1734,
+      "start_index": 6696,
+      "end_index": 7549,
+      "device_watts": false,
+      "segment": {
+        "id": 8990450,
+        "resource_state": 2,
+        "name": "End of East Coast Park Wailes Burner",
+        "activity_type": "Run",
+        "distance": 1734,
+        "average_grade": 0.5,
+        "maximum_grade": 16.8,
+        "elevation_high": 19.8,
+        "elevation_low": 0,
+        "start_latlng": [
+          1.29644,
+          103.901325
+        ],
+        "end_latlng": [
+          1.294614,
+          103.885985
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151323803,
+      "resource_state": 2,
+      "name": "RT 1 Km to Fort",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 482,
+      "moving_time": 437,
+      "start_date": "2019-02-23T12:05:57Z",
+      "start_date_local": "2019-02-23T20:05:57Z",
+      "distance": 1042.8,
+      "start_index": 7076,
+      "end_index": 7561,
+      "device_watts": false,
+      "segment": {
+        "id": 6932134,
+        "resource_state": 2,
+        "name": "RT 1 Km to Fort",
+        "activity_type": "Run",
+        "distance": 1042.8,
+        "average_grade": -0.5,
+        "maximum_grade": 4.7,
+        "elevation_high": 19.2,
+        "elevation_low": 7.1,
+        "start_latlng": [
+          1.295056,
+          103.894951
+        ],
+        "end_latlng": [
+          1.294691,
+          103.885651
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 2919261562935463400,
+      "resource_state": 2,
+      "name": "Washroom to bikeshop 500m",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 250,
+      "moving_time": 233,
+      "start_date": "2019-02-23T12:07:50Z",
+      "start_date_local": "2019-02-23T20:07:50Z",
+      "distance": 583.7,
+      "start_index": 7189,
+      "end_index": 7442,
+      "device_watts": false,
+      "segment": {
+        "id": 30837640,
+        "resource_state": 2,
+        "name": "Washroom to bikeshop 500m",
+        "activity_type": "Run",
+        "distance": 583.7,
+        "average_grade": 0,
+        "maximum_grade": 0.6,
+        "elevation_high": 11.7,
+        "elevation_low": 11.1,
+        "start_latlng": [
+          1.294877,
+          103.892952
+        ],
+        "end_latlng": [
+          1.294457,
+          103.888385
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151323846,
+      "resource_state": 2,
+      "name": "Trucks and ruts ",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 951,
+      "moving_time": 882,
+      "start_date": "2019-02-23T12:14:34Z",
+      "start_date_local": "2019-02-23T20:14:34Z",
+      "distance": 2010.5,
+      "start_index": 7595,
+      "end_index": 8497,
+      "device_watts": false,
+      "segment": {
+        "id": 6615070,
+        "resource_state": 2,
+        "name": "Trucks and ruts ",
+        "activity_type": "Run",
+        "distance": 2010.5,
+        "average_grade": -0.1,
+        "maximum_grade": 6.2,
+        "elevation_high": 23,
+        "elevation_low": 18.8,
+        "start_latlng": [
+          1.294337,
+          103.885099
+        ],
+        "end_latlng": [
+          1.282219,
+          103.875613
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 71392539452,
+      "resource_state": 2,
+      "name": "1.13Km MARINA EAST DRIVE",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 517,
+      "moving_time": 517,
+      "start_date": "2019-02-23T12:15:47Z",
+      "start_date_local": "2019-02-23T20:15:47Z",
+      "distance": 1138,
+      "start_index": 7637,
+      "end_index": 8154,
+      "device_watts": false,
+      "segment": {
+        "id": 22300388,
+        "resource_state": 2,
+        "name": "1.13Km MARINA EAST DRIVE",
+        "activity_type": "Run",
+        "distance": 1138,
+        "average_grade": -0.1,
+        "maximum_grade": 3.8,
+        "elevation_high": 11.4,
+        "elevation_low": 6.3,
+        "start_latlng": [
+          1.293706,
+          103.885278
+        ],
+        "end_latlng": [
+          1.287722,
+          103.877177
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151323822,
+      "resource_state": 2,
+      "name": "wind up",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 302,
+      "moving_time": 274,
+      "start_date": "2019-02-23T12:24:40Z",
+      "start_date_local": "2019-02-23T20:24:40Z",
+      "distance": 673.7,
+      "start_index": 8170,
+      "end_index": 8467,
+      "device_watts": false,
+      "segment": {
+        "id": 6952980,
+        "resource_state": 2,
+        "name": "wind up",
+        "activity_type": "Run",
+        "distance": 673.7,
+        "average_grade": -0.7,
+        "maximum_grade": 0,
+        "elevation_high": 9.6,
+        "elevation_low": 4.6,
+        "start_latlng": [
+          1.287441,
+          103.877012
+        ],
+        "end_latlng": [
+          1.28249,
+          103.875957
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151324050,
+      "resource_state": 2,
+      "name": "Marina East Straightaway Barrage to ECP",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 701,
+      "moving_time": 662,
+      "start_date": "2019-02-23T12:34:29Z",
+      "start_date_local": "2019-02-23T20:34:29Z",
+      "distance": 1475.7,
+      "start_index": 8740,
+      "end_index": 9439,
+      "device_watts": false,
+      "segment": {
+        "id": 6665750,
+        "resource_state": 2,
+        "name": "Marina East Straightaway Barrage to ECP",
+        "activity_type": "Run",
+        "distance": 1475.7,
+        "average_grade": 0.1,
+        "maximum_grade": 12.3,
+        "elevation_high": 81.2,
+        "elevation_low": 77,
+        "start_latlng": [
+          1.283075,
+          103.873401
+        ],
+        "end_latlng": [
+          1.294032,
+          103.866501
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 64151323905,
+      "resource_state": 2,
+      "name": "RT 400m Interval",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 286,
+      "moving_time": 286,
+      "start_date": "2019-02-23T12:34:48Z",
+      "start_date_local": "2019-02-23T20:34:48Z",
+      "distance": 372.8,
+      "start_index": 8759,
+      "end_index": 9043,
+      "device_watts": false,
+      "segment": {
+        "id": 7069596,
+        "resource_state": 2,
+        "name": "RT 400m Interval",
+        "activity_type": "Run",
+        "distance": 372.8,
+        "average_grade": 1.8,
+        "maximum_grade": 8.8,
+        "elevation_high": 24.8,
+        "elevation_low": 13.3,
+        "start_latlng": [
+          1.283311,
+          103.873014
+        ],
+        "end_latlng": [
+          1.285684,
+          103.870684
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    },
+    {
+      "id": 71393008289,
+      "resource_state": 2,
+      "name": "1.06Km DASH BY THE BAY",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 436,
+      "moving_time": 402,
+      "start_date": "2019-02-23T12:38:49Z",
+      "start_date_local": "2019-02-23T20:38:49Z",
+      "distance": 1067.8,
+      "start_index": 8998,
+      "end_index": 9434,
+      "device_watts": false,
+      "segment": {
+        "id": 22300382,
+        "resource_state": 2,
+        "name": "1.06Km DASH BY THE BAY",
+        "activity_type": "Run",
+        "distance": 1067.8,
+        "average_grade": 0,
+        "maximum_grade": 5.6,
+        "elevation_high": 3.8,
+        "elevation_low": -1.9,
+        "start_latlng": [
+          1.28488,
+          103.871269
+        ],
+        "end_latlng": [
+          1.293309,
+          103.866732
+        ],
+        "elevation_profile": null,
+        "elevation_profiles": null,
+        "climb_category": 0,
+        "city": "Singapore",
+        "state": null,
+        "country": "Singapore",
+        "private": false,
+        "hazardous": false,
+        "starred": false
+      },
+      "pr_rank": null,
+      "achievements": [],
+      "visibility": "everyone",
+      "hidden": false
+    }
+  ],
+  "splits_metric": [
+    {
+      "distance": 1002.6,
+      "elapsed_time": 395,
+      "elevation_difference": -10.1,
+      "moving_time": 389,
+      "split": 1,
+      "average_speed": 2.54,
+      "average_grade_adjusted_speed": 2.63,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.3,
+      "elapsed_time": 396,
+      "elevation_difference": 4.1,
+      "moving_time": 396,
+      "split": 2,
+      "average_speed": 2.52,
+      "average_grade_adjusted_speed": 2.64,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.7,
+      "elapsed_time": 431,
+      "elevation_difference": -2.2,
+      "moving_time": 374,
+      "split": 3,
+      "average_speed": 2.33,
+      "average_grade_adjusted_speed": 2.4,
+      "pace_zone": 0
+    },
+    {
+      "distance": 996.9,
+      "elapsed_time": 373,
+      "elevation_difference": 1.8,
+      "moving_time": 342,
+      "split": 4,
+      "average_speed": 2.67,
+      "average_grade_adjusted_speed": 3.02,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.2,
+      "elapsed_time": 418,
+      "elevation_difference": 3.6,
+      "moving_time": 385,
+      "split": 5,
+      "average_speed": 2.39,
+      "average_grade_adjusted_speed": 2.45,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.6,
+      "elapsed_time": 447,
+      "elevation_difference": 1.6,
+      "moving_time": 447,
+      "split": 6,
+      "average_speed": 2.24,
+      "average_grade_adjusted_speed": 2.29,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.2,
+      "elapsed_time": 447,
+      "elevation_difference": 0.7,
+      "moving_time": 447,
+      "split": 7,
+      "average_speed": 2.24,
+      "average_grade_adjusted_speed": 2.27,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.5,
+      "elapsed_time": 441,
+      "elevation_difference": 1.4,
+      "moving_time": 441,
+      "split": 8,
+      "average_speed": 2.27,
+      "average_grade_adjusted_speed": 2.3,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1001.2,
+      "elapsed_time": 436,
+      "elevation_difference": -0.5,
+      "moving_time": 332,
+      "split": 9,
+      "average_speed": 2.3,
+      "average_grade_adjusted_speed": 2.42,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.8,
+      "elapsed_time": 437,
+      "elevation_difference": 0.4,
+      "moving_time": 437,
+      "split": 10,
+      "average_speed": 2.29,
+      "average_grade_adjusted_speed": 2.32,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.7,
+      "elapsed_time": 448,
+      "elevation_difference": 3.9,
+      "moving_time": 448,
+      "split": 11,
+      "average_speed": 2.23,
+      "average_grade_adjusted_speed": 2.29,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.7,
+      "elapsed_time": 464,
+      "elevation_difference": 6.3,
+      "moving_time": 387,
+      "split": 12,
+      "average_speed": 2.16,
+      "average_grade_adjusted_speed": 2.29,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000,
+      "elapsed_time": 470,
+      "elevation_difference": -8.1,
+      "moving_time": 416,
+      "split": 13,
+      "average_speed": 2.13,
+      "average_grade_adjusted_speed": 2.12,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999,
+      "elapsed_time": 551,
+      "elevation_difference": 1.2,
+      "moving_time": 536,
+      "split": 14,
+      "average_speed": 1.81,
+      "average_grade_adjusted_speed": 1.84,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000,
+      "elapsed_time": 514,
+      "elevation_difference": -2.3,
+      "moving_time": 514,
+      "split": 15,
+      "average_speed": 1.95,
+      "average_grade_adjusted_speed": 1.99,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1003.1,
+      "elapsed_time": 533,
+      "elevation_difference": -3,
+      "moving_time": 508,
+      "split": 16,
+      "average_speed": 1.88,
+      "average_grade_adjusted_speed": 1.91,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.1,
+      "elapsed_time": 442,
+      "elevation_difference": 1.7,
+      "moving_time": 425,
+      "split": 17,
+      "average_speed": 2.26,
+      "average_grade_adjusted_speed": 2.27,
+      "pace_zone": 0
+    },
+    {
+      "distance": 999.2,
+      "elapsed_time": 467,
+      "elevation_difference": -2.7,
+      "moving_time": 405,
+      "split": 18,
+      "average_speed": 2.14,
+      "average_grade_adjusted_speed": 2.19,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.6,
+      "elapsed_time": 469,
+      "elevation_difference": -2.8,
+      "moving_time": 469,
+      "split": 19,
+      "average_speed": 2.13,
+      "average_grade_adjusted_speed": 2.14,
+      "pace_zone": 0
+    },
+    {
+      "distance": 998.6,
+      "elapsed_time": 459,
+      "elevation_difference": -2.2,
+      "moving_time": 420,
+      "split": 20,
+      "average_speed": 2.18,
+      "average_grade_adjusted_speed": 2.26,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1000.6,
+      "elapsed_time": 439,
+      "elevation_difference": -0.3,
+      "moving_time": 439,
+      "split": 21,
+      "average_speed": 2.28,
+      "average_grade_adjusted_speed": 2.36,
+      "pace_zone": 0
+    },
+    {
+      "distance": 282.3,
+      "elapsed_time": 139,
+      "elevation_difference": 0.5,
+      "moving_time": 99,
+      "split": 22,
+      "average_speed": 2.03,
+      "average_grade_adjusted_speed": 2.26,
+      "pace_zone": 0
+    }
+  ],
+  "splits_standard": [
+    {
+      "distance": 1611.1,
+      "elapsed_time": 636,
+      "elevation_difference": -4.4,
+      "moving_time": 630,
+      "split": 1,
+      "average_speed": 2.53,
+      "average_grade_adjusted_speed": 2.63,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.7,
+      "elapsed_time": 666,
+      "elevation_difference": -1.7,
+      "moving_time": 609,
+      "split": 2,
+      "average_speed": 2.41,
+      "average_grade_adjusted_speed": 2.51,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.6,
+      "elapsed_time": 639,
+      "elevation_difference": 8.3,
+      "moving_time": 575,
+      "split": 3,
+      "average_speed": 2.52,
+      "average_grade_adjusted_speed": 2.77,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.5,
+      "elapsed_time": 716,
+      "elevation_difference": -3.1,
+      "moving_time": 716,
+      "split": 4,
+      "average_speed": 2.25,
+      "average_grade_adjusted_speed": 2.29,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.4,
+      "elapsed_time": 713,
+      "elevation_difference": 4.4,
+      "moving_time": 713,
+      "split": 5,
+      "average_speed": 2.26,
+      "average_grade_adjusted_speed": 2.3,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.6,
+      "elapsed_time": 697,
+      "elevation_difference": -2.3,
+      "moving_time": 593,
+      "split": 6,
+      "average_speed": 2.31,
+      "average_grade_adjusted_speed": 2.39,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1607.9,
+      "elapsed_time": 725,
+      "elevation_difference": -3,
+      "moving_time": 725,
+      "split": 7,
+      "average_speed": 2.22,
+      "average_grade_adjusted_speed": 2.26,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.7,
+      "elapsed_time": 745,
+      "elevation_difference": 1.3,
+      "moving_time": 614,
+      "split": 8,
+      "average_speed": 2.16,
+      "average_grade_adjusted_speed": 2.21,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.7,
+      "elapsed_time": 859,
+      "elevation_difference": 6.8,
+      "moving_time": 844,
+      "split": 9,
+      "average_speed": 1.87,
+      "average_grade_adjusted_speed": 1.93,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610.8,
+      "elapsed_time": 826,
+      "elevation_difference": -7.4,
+      "moving_time": 801,
+      "split": 10,
+      "average_speed": 1.95,
+      "average_grade_adjusted_speed": 1.97,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1609.6,
+      "elapsed_time": 762,
+      "elevation_difference": 0.8,
+      "moving_time": 683,
+      "split": 11,
+      "average_speed": 2.11,
+      "average_grade_adjusted_speed": 2.15,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1608.1,
+      "elapsed_time": 751,
+      "elevation_difference": -5.7,
+      "moving_time": 712,
+      "split": 12,
+      "average_speed": 2.14,
+      "average_grade_adjusted_speed": 2.15,
+      "pace_zone": 0
+    },
+    {
+      "distance": 1610,
+      "elapsed_time": 698,
+      "elevation_difference": -2.9,
+      "moving_time": 698,
+      "split": 13,
+      "average_speed": 2.31,
+      "average_grade_adjusted_speed": 2.4,
+      "pace_zone": 0
+    },
+    {
+      "distance": 360.2,
+      "elapsed_time": 183,
+      "elevation_difference": 1.9,
+      "moving_time": 143,
+      "split": 14,
+      "average_speed": 1.97,
+      "average_grade_adjusted_speed": 2.17,
+      "pace_zone": 0
+    }
+  ],
+  "laps": [
+    {
+      "id": 8364098251,
+      "resource_state": 2,
+      "name": "Lap 1",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 9615,
+      "moving_time": 9056,
+      "start_date": "2019-02-23T10:05:55Z",
+      "start_date_local": "2019-02-23T18:05:55Z",
+      "distance": 21282.9,
+      "average_speed": 2.21,
+      "max_speed": 11.8,
+      "lap_index": 1,
+      "split": 1,
+      "start_index": 0,
+      "end_index": 9440,
+      "total_elevation_gain": 250.4,
+      "device_watts": false,
+      "pace_zone": 0
+    }
+  ],
+  "best_efforts": [
+    {
+      "id": 12787488845,
+      "resource_state": 2,
+      "name": "400m",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 129,
+      "moving_time": 129,
+      "start_date": "2019-02-23T10:20:28Z",
+      "start_date_local": "2019-02-23T18:20:28Z",
+      "distance": 400,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 823,
+      "end_index": 938
+    },
+    {
+      "id": 12787488920,
+      "resource_state": 2,
+      "name": "1/2 mile",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 285,
+      "moving_time": 285,
+      "start_date": "2019-02-23T10:25:46Z",
+      "start_date_local": "2019-02-23T18:25:46Z",
+      "distance": 805,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 1125,
+      "end_index": 1377
+    },
+    {
+      "id": 12787488986,
+      "resource_state": 2,
+      "name": "1K",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 362,
+      "moving_time": 362,
+      "start_date": "2019-02-23T10:25:46Z",
+      "start_date_local": "2019-02-23T18:25:46Z",
+      "distance": 1000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 1125,
+      "end_index": 1453
+    },
+    {
+      "id": 12787489051,
+      "resource_state": 2,
+      "name": "1 mile",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 609,
+      "moving_time": 609,
+      "start_date": "2019-02-23T10:20:28Z",
+      "start_date_local": "2019-02-23T18:20:28Z",
+      "distance": 1609,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 823,
+      "end_index": 1382
+    },
+    {
+      "id": 12787489097,
+      "resource_state": 2,
+      "name": "2 mile",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 1275,
+      "moving_time": 1275,
+      "start_date": "2019-02-23T10:08:15Z",
+      "start_date_local": "2019-02-23T18:08:15Z",
+      "distance": 3219,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 107,
+      "end_index": 1316
+    },
+    {
+      "id": 12787489125,
+      "resource_state": 2,
+      "name": "5K",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 2008,
+      "moving_time": 2008,
+      "start_date": "2019-02-23T10:06:37Z",
+      "start_date_local": "2019-02-23T18:06:37Z",
+      "distance": 5000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 20,
+      "end_index": 1950
+    },
+    {
+      "id": 12787489133,
+      "resource_state": 2,
+      "name": "10K",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 4212,
+      "moving_time": 4212,
+      "start_date": "2019-02-23T10:06:41Z",
+      "start_date_local": "2019-02-23T18:06:41Z",
+      "distance": 10000,
+      "pr_rank": 2,
+      "achievements": [
+        {
+          "type_id": 3,
+          "type": "pr",
+          "rank": 2
+        }
+      ],
+      "start_index": 22,
+      "end_index": 4162
+    },
+    {
+      "id": 12787489136,
+      "resource_state": 2,
+      "name": "15K",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 6667,
+      "moving_time": 6667,
+      "start_date": "2019-02-23T10:06:31Z",
+      "start_date_local": "2019-02-23T18:06:31Z",
+      "distance": 15000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 17,
+      "end_index": 6577
+    },
+    {
+      "id": 12787489138,
+      "resource_state": 2,
+      "name": "10 mile",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 7219,
+      "moving_time": 7219,
+      "start_date": "2019-02-23T10:06:31Z",
+      "start_date_local": "2019-02-23T18:06:31Z",
+      "distance": 16090,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 17,
+      "end_index": 7129
+    },
+    {
+      "id": 12787489140,
+      "resource_state": 2,
+      "name": "20K",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 9038,
+      "moving_time": 9038,
+      "start_date": "2019-02-23T10:05:55Z",
+      "start_date_local": "2019-02-23T18:05:55Z",
+      "distance": 20000,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 0,
+      "end_index": 8863
+    },
+    {
+      "id": 12787489142,
+      "resource_state": 2,
+      "name": "Half-Marathon",
+      "activity": {
+        "id": 2552749935,
+        "visibility": "everyone",
+        "resource_state": 1
+      },
+      "athlete": {
+        "id": 18347400,
+        "resource_state": 1
+      },
+      "elapsed_time": 9498,
+      "moving_time": 9498,
+      "start_date": "2019-02-23T10:07:05Z",
+      "start_date_local": "2019-02-23T18:07:05Z",
+      "distance": 21097,
+      "pr_rank": null,
+      "achievements": [],
+      "start_index": 37,
+      "end_index": 9392
+    }
+  ],
+  "gear": {
+    "id": "g4710897",
+    "primary": false,
+    "name": "ASICS GT-2000 6",
+    "nickname": "",
+    "resource_state": 2,
+    "retired": true,
+    "distance": 213998,
+    "converted_distance": 214
+  },
+  "photos": {
+    "primary": null,
+    "count": 0
+  },
+  "stats_visibility": [
+    {
+      "type": "heart_rate",
+      "visibility": "everyone"
+    },
+    {
+      "type": "pace",
+      "visibility": "everyone"
+    },
+    {
+      "type": "power",
+      "visibility": "everyone"
+    },
+    {
+      "type": "speed",
+      "visibility": "everyone"
+    },
+    {
+      "type": "calories",
+      "visibility": "everyone"
+    }
+  ],
+  "hide_from_home": false,
+  "embed_token": "8f3cfaf20a4d9db6a65fa7e25bc00959bf15e237",
+  "similar_activities": {
+    "effort_count": 1,
+    "average_speed": 2.3501435512367492,
+    "min_average_speed": 2.3501435512367492,
+    "mid_average_speed": 2.3501435512367492,
+    "max_average_speed": 2.3501435512367492,
+    "pr_rank": null,
+    "frequency_milestone": null,
+    "trend": {
+      "speeds": [
+        2.3501435512367492
+      ],
+      "current_activity_index": 0,
+      "min_speed": 2.3501435512367492,
+      "mid_speed": 2.3501435512367492,
+      "max_speed": 2.3501435512367492,
+      "direction": 0
+    },
+    "resource_state": 2
+  },
   "available_zones": []
 },{
   "resource_state": 3,
