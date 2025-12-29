@@ -5,12 +5,5 @@ import UnifiedChat from "./components/Chat.vue";
 </script>
 
 <template>
-  <DefaultTheme.Layout>
-    <template #layout-bottom>
-      <FloatingMusicPlayer
-        :playlist-url="'https://soundcloud.com/stevanus-satria/sets/piano-covers'"
-      />
-      <UnifiedChat />
-    </template>
-  </DefaultTheme.Layout>
+  <DefaultTheme.Layout> </DefaultTheme.Layout>
 </template>

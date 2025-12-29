@@ -1023,7 +1023,7 @@ watch(
       class="!w-14 !h-14 !rounded-full !bg-indigo-600 !text-white !shadow-lg !flex !items-center !justify-center !transition-all hover:!bg-indigo-700"
       @click="toggleMiniChat"
     >
-      <img src="/advocado.webp" alt="Advocado" class="!w-8 !h-8 !rounded-full" />
+      <img src="/gwendolin-tan.png" alt="Advocado" class="!w-8 !h-8 !rounded-full" />
     </button>
 
     <!-- Mini Chat Window -->

@@ -1,94 +1,67 @@
 ---
 layout: home
 title: "Home"
-description: "Welcome to Stevanus Satria's portfolio. Senior Product Manager at Airwallex with 7+ years of experience in B2B SaaS, product management, and frontend development. Chat with Advocado, my AI assistant!"
-keywords: "Stevanus Satria, product manager, software engineer, Workato, Airwallex, B2B SaaS, frontend developer, Singapore, portfolio"
-author: "Stevanus Satria"
+description: "Welcome to Gwendolin Tan's portfolio. Senior Product Manager at FWD Insurance with 10+ years of experience in product management, digital platforms, and strategic delivery. Chat with Advocado, my AI assistant!"
+keywords: "Gwendolin Tan, product manager, FWD Insurance, Lazada, Amadeus, product strategy, digital platforms, Singapore, portfolio"
+author: "Gwendolin Tan"
 head:
   - - meta
     - property: og:title
       content: "Home"
   - - meta
     - property: og:description
-      content: "Welcome to Stevanus Satria's portfolio. Senior Product Manager at Airwallex with 7+ years of experience in B2B SaaS, product management, and frontend development. Chat with Advocado, my AI assistant!"
+      content: "Welcome to Gwendolin Tan's portfolio. Senior Product Manager at FWD Insurance with 10+ years of experience in product management, digital platforms, and strategic delivery. Chat with Advocado, my AI assistant!"
   - - meta
     - property: og:type
       content: website
   - - meta
     - property: og:url
-      content: https://stevanussatria.com
+      content: https://gwendolintan.com
   - - meta
     - name: twitter:title
       content: "Home"
   - - meta
     - name: twitter:description
-      content: "Welcome to Stevanus Satria's portfolio. Senior Product Manager at Airwallex with 7+ years of experience in B2B SaaS, product management, and frontend development. Chat with Advocado, my AI assistant!"
+      content: "Welcome to Gwendolin Tan's portfolio. Senior Product Manager at FWD Insurance with 10+ years of experience in product management, digital platforms, and strategic delivery."
   - - meta
     - name: twitter:card
       content: summary_large_image
   - - link
     - rel: canonical
-      href: https://stevanussatria.com
+      href: https://gwendolintan.com
 
 hero:
-  name: "Stevanus Satria"
+  name: "Gwendolin Tan"
   text: "Product Manager"
   image:
-    src: /me.webp
-    alt: Stevanus Satria
+    src: /gwendolin-tan.png
+    alt: Gwendolin Tan
   actions:
     - theme: brand
-      text: Let's Chat
-      link: "#chat"
-    - theme: alt
       text: Download Resume
-      link: /resume?auto=true
+      link: https://media.licdn.com/dms/document/media/v2/D562DAQE-PPC0R22v3Q/profile-treasury-document-pdf-analyzed/B56ZksaKxpI0Ag-/0/1757386683335?e=1767830400&v=beta&t=RHTkWh9QEP30kCOGsV36dkqupOYLczClfdy56xMUH00&acrobatPromotionSource=linkedin_chrome-post_view
 
 features:
-  - title: ⌛ 7+
+  - title: ⌛ 10+
     details: Years of Experience
-  - title: 💼 B2B
-    details: Primary Domain Expertise
-  - title: 🌐 SaaS
-    details: Primary Architecture Expertise
+  - title: 💼 Product Strategy
+    details: Core Expertise
+  - title: 🌐 Digital Platforms
+    details: Specialization
 ---
 
-<script setup lang="ts">
-import { onMounted } from 'vue'
-import { defineAsyncComponent } from 'vue'
-const ContactChatLink = defineAsyncComponent(() => 
-  import('./components/ContactChatLink.vue')
-)
+## Hi, I'm Gwendolin 👋
 
-onMounted(() => {
-  // Find the "Let's Chat" button and override its behavior
-  const chatButton = document.querySelector('a[href="#chat"]')
-  
-  if (chatButton) {
-    chatButton.addEventListener('click', (e) => {
-      e.preventDefault()
-      
-      // Dispatch the chat activation event
-      window.dispatchEvent(new CustomEvent('activateChat', {
-        detail: {
-          message: "I'd like to schedule a chat with Steve!"
-        }
-      }))
-    })
-  }
-})
-</script>
+I'm a **product manager**, **strategist**, and **cross-functional collaborator** dedicated to building digital products that solve real user problems.
 
-## Hi, I'm Steve 👋
+I'm currently a **Senior Product Manager, Group Digital Platforms** at [FWD Insurance](https://www.fwd.com.sg/), where I drive innovation in digital platforms and lead strategic initiatives that enhance customer experiences and operational efficiency.
 
-I'm a **product manager**, **frontend developer**, **avid cyclist**, and **casual pianist**.
+Previously, I was a **Product Manager** at [Lazada](https://www.lazada.sg/), where I led cross-functional product strategy and spearheaded features that significantly improved user engagement and business metrics. Before that, I spent over two years as a **Technical Product Owner** at [Amadeus](https://www.amadeus.com/), designing key features and UI enhancements for their Airport Management Suite. My career began in product and business analysis at [Atos Information Technology](https://atos.net/), where I managed full-lifecycle content management applications for government agencies.
 
-I'm currently a **Senior Product Manager** at [Airwallex](https://airwallex.com), where I manage all payment plugins built by Airwallex.
+I hold a **Bachelor of Science in Information Systems Management** with a Second Major in **Operations Management** from [Singapore Management University](https://www.smu.edu.sg/), equipping me with a strong foundation in both technology and business operations.
 
-Previously, I was a **Senior Product Manager** at [Workato](https://www.workato.com), where I manage a suite of platform connectors and stateful data storage solutions, modernizing legacy systems and guiding cross-functional teams from vision to execution. Prior to that, I was a **Product Manager** at [Shopee](https://shopee.sg), improving the buyer-seller chat experience across mobile and web platforms. Before moving into product management, I spent three years as a **Software Engineer** at [Amadeus](https://www.amadeus.com), where I modernized the Airport Management System’s dashboard and reporting module, improved the stability of its messaging system, and built productivity tools including [Figma Plugins](https://www.figma.com/@stevahnes) that reached more than 37,000 users and 240 likes.
+Seasoned professional with over 10 years under my belt, I specialize in **strategy**, **product feature development**, and **end-to-end project delivery**. I've honed my ability to collaborate seamlessly with cross-functional and country teams, ensuring smooth operations and successful outcomes across diverse markets and organizational structures.
 
-My journey into software began at [Works Applications](https://www.worksap.sg/), where I started as a **Graduate Software Engineer**. Before that, I spent a year as a **Research Officer** after earning my Bachelor of Engineering (Product Development) from [SUTD](https://www.sutd.edu.sg/). My research on impulse shaping to suppress oscillations in spherical rolling robots was [published](https://ieeexplore.ieee.org/document/8014259) at the IEEE Advanced Intelligent Mechatronics (AIM) Conference in 2017.
+My sweet spot? **Building features that users truly need**, not just what they want. I take pride in being a well-rounded individual, blending technical prowess with a deep understanding of UX, analytics, and the broader business context. Whether I'm analyzing user behavior, architecting product solutions, or aligning stakeholders around a shared vision, I'm driven by the goal of creating meaningful impact through thoughtful product decisions.
 
-Outside of work, I enjoy **cycling**, **practicing yoga**, and **going to the gym**. The [longest ride](https://www.strava.com/activities/11811566357) I've completed was a 120km loop around Singapore. My most challenging ride to date was a triple climb of [Page Mill Rd, Pescadero, and Tunitas Creek](https://www.strava.com/activities/12183241879) in the Bay Area. I also enjoy playing the **piano** casually. During the COVID-19 lockdowns, I challenged myself to record **30 covers in 30 days**, which I compiled into a [playlist on SoundCloud](https://soundcloud.com/stevanus-satria/sets/piano-covers).
-
-Whether I'm cycling, playing piano, or building software, I love tackling challenges, learning new things, and creating experiences that matter. Want to learn more or have a conversation about products, tech, or hobbies? Get <ContactChatLink message="I'd like to get in touch with Steve!">Advocado</ContactChatLink> to help you drop me a note!
+Want to learn more or have a conversation about products, strategy, or how to build solutions that matter? Let's connect on [Linkedin](https://www.linkedin.com/in/gwendolintan/) and get in touch!

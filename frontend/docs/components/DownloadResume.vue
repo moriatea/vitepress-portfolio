@@ -20,7 +20,7 @@ interface HTMLTagProcessor {
 }
 
 // --- Constants ---
-const DEFAULT_FILENAME = "Stevanus SATRIA.pdf";
+const DEFAULT_FILENAME = "Gwendolin Tan.pdf";
 const DEFAULT_BUTTON_TEXT = "Download Resume";
 const HYDRATION_DELAY = 100;
 
